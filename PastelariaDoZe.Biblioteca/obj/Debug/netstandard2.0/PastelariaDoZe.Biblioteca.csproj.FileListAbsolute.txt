@@ -1,0 +1,66 @@
+C:\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe.Biblioteca\bin\Debug\netstandard2.0\PastelariaDoZe.Biblioteca.deps.json
+C:\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe.Biblioteca\bin\Debug\netstandard2.0\PastelariaDoZe.Biblioteca.dll
+C:\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe.Biblioteca\bin\Debug\netstandard2.0\PastelariaDoZe.Biblioteca.pdb
+C:\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe.Biblioteca\obj\Debug\netstandard2.0\PastelariaDoZe.Biblioteca.csprojAssemblyReference.cache
+C:\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe.Biblioteca\obj\Debug\netstandard2.0\PastelariaDoZe.Biblioteca.csproj.CoreCompileInputs.cache
+C:\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe.Biblioteca\obj\Debug\netstandard2.0\PastelariaDoZe.Biblioteca.AssemblyInfoInputs.cache
+C:\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe.Biblioteca\obj\Debug\netstandard2.0\PastelariaDoZe.Biblioteca.AssemblyInfo.cs
+C:\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe.Biblioteca\obj\Debug\netstandard2.0\PastelariaDoZe.Biblioteca.dll
+C:\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe.Biblioteca\obj\Debug\netstandard2.0\PastelariaDoZe.Biblioteca.pdb
+C:\OneDrive\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe.Biblioteca\bin\Debug\netstandard2.0\PastelariaDoZe.Biblioteca.deps.json
+C:\OneDrive\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe.Biblioteca\bin\Debug\netstandard2.0\PastelariaDoZe.Biblioteca.dll
+C:\OneDrive\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe.Biblioteca\bin\Debug\netstandard2.0\PastelariaDoZe.Biblioteca.pdb
+C:\OneDrive\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe.Biblioteca\obj\Debug\netstandard2.0\PastelariaDoZe.Biblioteca.csprojAssemblyReference.cache
+C:\OneDrive\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe.Biblioteca\obj\Debug\netstandard2.0\PastelariaDoZe.Biblioteca.csproj.CoreCompileInputs.cache
+C:\OneDrive\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe.Biblioteca\obj\Debug\netstandard2.0\PastelariaDoZe.Biblioteca.AssemblyInfoInputs.cache
+C:\OneDrive\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe.Biblioteca\obj\Debug\netstandard2.0\PastelariaDoZe.Biblioteca.AssemblyInfo.cs
+C:\OneDrive\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe.Biblioteca\obj\Debug\netstandard2.0\PastelariaDoZe.Biblioteca.dll
+C:\OneDrive\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe.Biblioteca\obj\Debug\netstandard2.0\PastelariaDoZe.Biblioteca.pdb
+C:\OneDrive\Sistemas de Informacao\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe.Biblioteca\bin\Debug\netstandard2.0\PastelariaDoZe.Biblioteca.deps.json
+C:\OneDrive\Sistemas de Informacao\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe.Biblioteca\bin\Debug\netstandard2.0\PastelariaDoZe.Biblioteca.dll
+C:\OneDrive\Sistemas de Informacao\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe.Biblioteca\bin\Debug\netstandard2.0\PastelariaDoZe.Biblioteca.pdb
+C:\OneDrive\Sistemas de Informacao\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe.Biblioteca\obj\Debug\netstandard2.0\PastelariaDoZe.Biblioteca.csprojAssemblyReference.cache
+C:\OneDrive\Sistemas de Informacao\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe.Biblioteca\obj\Debug\netstandard2.0\PastelariaDoZe.Biblioteca.csproj.CoreCompileInputs.cache
+C:\OneDrive\Sistemas de Informacao\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe.Biblioteca\obj\Debug\netstandard2.0\PastelariaDoZe.Biblioteca.AssemblyInfoInputs.cache
+C:\OneDrive\Sistemas de Informacao\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe.Biblioteca\obj\Debug\netstandard2.0\PastelariaDoZe.Biblioteca.AssemblyInfo.cs
+C:\OneDrive\Sistemas de Informacao\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe.Biblioteca\obj\Debug\netstandard2.0\PastelariaDoZe.Biblioteca.dll
+C:\OneDrive\Sistemas de Informacao\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe.Biblioteca\obj\Debug\netstandard2.0\PastelariaDoZe.Biblioteca.pdb
+C:\OneDrive\Sistemas de Informacao\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe.Biblioteca\bin\Debug\netstandard2.0\System.Windows.Forms.dll
+C:\OneDrive\Sistemas de Informacao\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe.Biblioteca\bin\Debug\netstandard2.0\System.Security.dll
+C:\OneDrive\Sistemas de Informacao\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe.Biblioteca\bin\Debug\netstandard2.0\System.Configuration.dll
+C:\OneDrive\Sistemas de Informacao\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe.Biblioteca\bin\Debug\netstandard2.0\Accessibility.dll
+C:\OneDrive\Sistemas de Informacao\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe.Biblioteca\bin\Debug\netstandard2.0\System.Deployment.dll
+C:\OneDrive\Sistemas de Informacao\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe.Biblioteca\bin\Debug\netstandard2.0\System.Runtime.Serialization.Formatters.Soap.dll
+C:\OneDrive\Sistemas de Informacao\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe.Biblioteca\bin\Debug\netstandard2.0\System.Windows.Forms.xml
+C:\OneDrive\Sistemas de Informacao\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe.Biblioteca\bin\Debug\netstandard2.0\System.Security.xml
+C:\OneDrive\Sistemas de Informacao\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe.Biblioteca\bin\Debug\netstandard2.0\System.Configuration.xml
+C:\OneDrive\Sistemas de Informacao\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe.Biblioteca\bin\Debug\netstandard2.0\Accessibility.xml
+C:\OneDrive\Sistemas de Informacao\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe.Biblioteca\bin\Debug\netstandard2.0\System.Deployment.xml
+C:\OneDrive\Sistemas de Informacao\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe.Biblioteca\bin\Debug\netstandard2.0\System.Runtime.Serialization.Formatters.Soap.xml
+C:\OneDrive\Sistemas de Informacao\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe.Biblioteca\obj\Debug\netstandard2.0\PastelariaDoZe.Biblioteca.csproj.CopyComplete
+C:\OneDrive\Sistemas de Informacao\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe.Biblioteca\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.dll
+C:\OneDrive\Sistemas de Informacao\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe.Biblioteca\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.xml
+C:\PastelariaDoZe\PastelariaDoZe.Biblioteca\bin\Debug\netstandard2.0\PastelariaDoZe.Biblioteca.deps.json
+C:\PastelariaDoZe\PastelariaDoZe.Biblioteca\bin\Debug\netstandard2.0\PastelariaDoZe.Biblioteca.dll
+C:\PastelariaDoZe\PastelariaDoZe.Biblioteca\bin\Debug\netstandard2.0\PastelariaDoZe.Biblioteca.pdb
+C:\PastelariaDoZe\PastelariaDoZe.Biblioteca\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.dll
+C:\PastelariaDoZe\PastelariaDoZe.Biblioteca\bin\Debug\netstandard2.0\System.Configuration.dll
+C:\PastelariaDoZe\PastelariaDoZe.Biblioteca\bin\Debug\netstandard2.0\System.Windows.Forms.dll
+C:\PastelariaDoZe\PastelariaDoZe.Biblioteca\bin\Debug\netstandard2.0\System.Security.dll
+C:\PastelariaDoZe\PastelariaDoZe.Biblioteca\bin\Debug\netstandard2.0\Accessibility.dll
+C:\PastelariaDoZe\PastelariaDoZe.Biblioteca\bin\Debug\netstandard2.0\System.Deployment.dll
+C:\PastelariaDoZe\PastelariaDoZe.Biblioteca\bin\Debug\netstandard2.0\System.Runtime.Serialization.Formatters.Soap.dll
+C:\PastelariaDoZe\PastelariaDoZe.Biblioteca\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.xml
+C:\PastelariaDoZe\PastelariaDoZe.Biblioteca\bin\Debug\netstandard2.0\System.Configuration.xml
+C:\PastelariaDoZe\PastelariaDoZe.Biblioteca\bin\Debug\netstandard2.0\System.Windows.Forms.xml
+C:\PastelariaDoZe\PastelariaDoZe.Biblioteca\bin\Debug\netstandard2.0\System.Security.xml
+C:\PastelariaDoZe\PastelariaDoZe.Biblioteca\bin\Debug\netstandard2.0\Accessibility.xml
+C:\PastelariaDoZe\PastelariaDoZe.Biblioteca\bin\Debug\netstandard2.0\System.Deployment.xml
+C:\PastelariaDoZe\PastelariaDoZe.Biblioteca\bin\Debug\netstandard2.0\System.Runtime.Serialization.Formatters.Soap.xml
+C:\PastelariaDoZe\PastelariaDoZe.Biblioteca\obj\Debug\netstandard2.0\PastelariaDoZe.Biblioteca.csprojAssemblyReference.cache
+C:\PastelariaDoZe\PastelariaDoZe.Biblioteca\obj\Debug\netstandard2.0\PastelariaDoZe.Biblioteca.AssemblyInfoInputs.cache
+C:\PastelariaDoZe\PastelariaDoZe.Biblioteca\obj\Debug\netstandard2.0\PastelariaDoZe.Biblioteca.AssemblyInfo.cs
+C:\PastelariaDoZe\PastelariaDoZe.Biblioteca\obj\Debug\netstandard2.0\PastelariaDoZe.Biblioteca.csproj.CoreCompileInputs.cache
+C:\PastelariaDoZe\PastelariaDoZe.Biblioteca\obj\Debug\netstandard2.0\PastelariaDoZe.Biblioteca.csproj.CopyComplete
+C:\PastelariaDoZe\PastelariaDoZe.Biblioteca\obj\Debug\netstandard2.0\PastelariaDoZe.Biblioteca.dll
+C:\PastelariaDoZe\PastelariaDoZe.Biblioteca\obj\Debug\netstandard2.0\PastelariaDoZe.Biblioteca.pdb

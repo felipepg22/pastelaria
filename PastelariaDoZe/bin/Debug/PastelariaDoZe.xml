@@ -1,0 +1,590 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PastelariaDoZe</name>
+    </assembly>
+    <members>
+        <member name="M:PastelariaDoZe.CadastroClientes.AtualizarTela">
+            <summary>
+            Atualiza a lista com todos os Clientes do banco de dados
+            </summary>
+        </member>
+        <member name="M:PastelariaDoZe.CadastroClientes.AtualizarTelaOne(System.Int32)">
+            <summary>
+            Pega os dados de um Cliente da lista e coloca no formulário
+            </summary>
+            <param name="id"></param>
+        </member>
+        <member name="M:PastelariaDoZe.CadastroClientes.LimpaFormulario">
+            <summary>
+            Limpa os campos do formulário
+            </summary>
+        </member>
+        <member name="F:PastelariaDoZe.CadastroClientes.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:PastelariaDoZe.CadastroClientes.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:PastelariaDoZe.CadastroClientes.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:PastelariaDoZe.CadastroProdutos.AtualizarTela">
+            <summary>
+            Mostra em uma tabela os dados do banco
+            </summary>
+        </member>
+        <member name="M:PastelariaDoZe.CadastroProdutos.AtualizarTelaOne(System.Int32)">
+            <summary>
+            Escolhe da tabela um dado para mostrar nos campos
+            </summary>
+            <param name="id">Id do produto que deseja ver as informações</param>
+        </member>
+        <member name="M:PastelariaDoZe.CadastroProdutos.ConverteImagemParaByteArray(System.Drawing.Image,System.Windows.Forms.PictureBox)">
+            <summary>
+            Converte a foto da picture box para um array de bytes
+            </summary>
+            <param name="img">Foto do produto</param>
+            <param name="imagem"></param>
+            <returns></returns>
+        </member>
+        <member name="M:PastelariaDoZe.CadastroProdutos.ConverteByteArrayParaImagem(System.Byte[])">
+            <summary>
+            Converte o array de bytes para uma imagem
+            </summary>
+            <param name="pData">Array de Bytes</param>
+            <returns></returns>
+        </member>
+        <member name="F:PastelariaDoZe.CadastroProdutos.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:PastelariaDoZe.CadastroProdutos.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:PastelariaDoZe.CadastroProdutos.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:PastelariaDoZe.Comandas.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:PastelariaDoZe.Comandas.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:PastelariaDoZe.Comandas.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:PastelariaDoZe.ComandasConsumo.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:PastelariaDoZe.ComandasConsumo.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:PastelariaDoZe.ComandasConsumo.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:PastelariaDoZe.FecharComanda.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:PastelariaDoZe.FecharComanda.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:PastelariaDoZe.FecharComanda.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:PastelariaDoZe.Telas.FormLogout.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:PastelariaDoZe.Telas.FormLogout.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:PastelariaDoZe.Telas.FormLogout.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:PastelariaDoZe.Telas.FormMensagem.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:PastelariaDoZe.Telas.FormMensagem.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:PastelariaDoZe.Telas.FormMensagem.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:PastelariaDoZe.Telas.FormMensagemTray.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:PastelariaDoZe.Telas.FormMensagemTray.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:PastelariaDoZe.Telas.FormMensagemTray.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:PastelariaDoZe.Telas.FormQuantidade.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:PastelariaDoZe.Telas.FormQuantidade.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:PastelariaDoZe.Telas.FormQuantidade.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:PastelariaDoZe.Telas.FormSenhaCliente.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:PastelariaDoZe.Telas.FormSenhaCliente.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:PastelariaDoZe.Telas.FormSenhaCliente.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:PastelariaDoZe.Telas.UserControlBusca.components">
+            <summary> 
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:PastelariaDoZe.Telas.UserControlBusca.Dispose(System.Boolean)">
+            <summary> 
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:PastelariaDoZe.Telas.UserControlBusca.InitializeComponent">
+            <summary> 
+            Required method for Designer support - do not modify 
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:PastelariaDoZe.TelaLogin.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:PastelariaDoZe.TelaLogin.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:PastelariaDoZe.TelaLogin.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:PastelariaDoZe.Funcionarios.AtualizarTela">
+            <summary>
+            Atualiza a lista de Funcionários do banco de dados na tabela
+            </summary>
+        </member>
+        <member name="M:PastelariaDoZe.Funcionarios.AtualizarTelaOne(System.Int32)">
+            <summary>
+            Pega da lista um Funcionário e coloca os dados no formulário
+            </summary>
+            <param name="id">Id do Funcionário escolhido</param>
+        </member>
+        <member name="M:PastelariaDoZe.Funcionarios.LimpaFormulario">
+            <summary>
+            Limpa os campos do formulário
+            </summary>
+        </member>
+        <member name="F:PastelariaDoZe.Funcionarios.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:PastelariaDoZe.Funcionarios.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:PastelariaDoZe.Funcionarios.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:PastelariaDoZe.MenuPrincipal.AbrirFormNoPanel``1">
+            <summary>
+            Abre um form no panel principal do menu
+            </summary>
+            <typeparam name="Forms">Formulário que deseja abrir no panel.</typeparam>
+        </member>
+        <member name="M:PastelariaDoZe.MenuPrincipal.AjustaTela">
+            <summary>
+            Habilita ou desabilita funções da aplicação de acordo com as permissões do usuário logado
+            </summary>
+        </member>
+        <member name="F:PastelariaDoZe.MenuPrincipal.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:PastelariaDoZe.MenuPrincipal.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:PastelariaDoZe.MenuPrincipal.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:PastelariaDoZe.Program.Main">
+            <summary>
+            The main entry point for the application.
+            </summary>
+        </member>
+        <member name="F:PastelariaDoZe.RecebeFiado.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:PastelariaDoZe.RecebeFiado.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:PastelariaDoZe.RecebeFiado.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:PastelariaDoZe.TelaConfiguracoes.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:PastelariaDoZe.TelaConfiguracoes.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:PastelariaDoZe.TelaConfiguracoes.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:PastelariaDoZe.Properties.Resources">
+            <summary>
+              Uma classe de recurso de tipo de alta segurança, para pesquisar cadeias de caracteres localizadas etc.
+            </summary>
+        </member>
+        <member name="P:PastelariaDoZe.Properties.Resources.ResourceManager">
+            <summary>
+              Retorna a instância de ResourceManager armazenada em cache usada por essa classe.
+            </summary>
+        </member>
+        <member name="P:PastelariaDoZe.Properties.Resources.Culture">
+            <summary>
+              Substitui a propriedade CurrentUICulture do thread atual para todas as
+              pesquisas de recursos que usam essa classe de recurso de tipo de alta segurança.
+            </summary>
+        </member>
+        <member name="P:PastelariaDoZe.Properties.Resources.AddComanda__1_">
+            <summary>
+              Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:PastelariaDoZe.Properties.Resources.AddComanda__1_1">
+            <summary>
+              Consulta um recurso localizado do tipo System.Drawing.Icon semelhante a (Ícone).
+            </summary>
+        </member>
+        <member name="P:PastelariaDoZe.Properties.Resources.addConsumo">
+            <summary>
+              Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:PastelariaDoZe.Properties.Resources.addConsumo__2_">
+            <summary>
+              Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:PastelariaDoZe.Properties.Resources.addImagem">
+            <summary>
+              Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:PastelariaDoZe.Properties.Resources.cadastrarFiado">
+            <summary>
+              Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:PastelariaDoZe.Properties.Resources.cliente">
+            <summary>
+              Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:PastelariaDoZe.Properties.Resources.cliente1">
+            <summary>
+              Consulta um recurso localizado do tipo System.Drawing.Icon semelhante a (Ícone).
+            </summary>
+        </member>
+        <member name="P:PastelariaDoZe.Properties.Resources.comanda">
+            <summary>
+              Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:PastelariaDoZe.Properties.Resources.comanda1">
+            <summary>
+              Consulta um recurso localizado do tipo System.Drawing.Icon semelhante a (Ícone).
+            </summary>
+        </member>
+        <member name="P:PastelariaDoZe.Properties.Resources.configuracoes">
+            <summary>
+              Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:PastelariaDoZe.Properties.Resources.configuracoes1">
+            <summary>
+              Consulta um recurso localizado do tipo System.Drawing.Icon semelhante a (Ícone).
+            </summary>
+        </member>
+        <member name="P:PastelariaDoZe.Properties.Resources.dashboard">
+            <summary>
+              Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:PastelariaDoZe.Properties.Resources.dinheiro">
+            <summary>
+              Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:PastelariaDoZe.Properties.Resources.editar">
+            <summary>
+              Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:PastelariaDoZe.Properties.Resources.empregado">
+            <summary>
+              Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:PastelariaDoZe.Properties.Resources.empregado1">
+            <summary>
+              Consulta um recurso localizado do tipo System.Drawing.Icon semelhante a (Ícone).
+            </summary>
+        </member>
+        <member name="P:PastelariaDoZe.Properties.Resources.ExcluirBarra">
+            <summary>
+              Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:PastelariaDoZe.Properties.Resources.excluirconsumo">
+            <summary>
+              Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:PastelariaDoZe.Properties.Resources.fecharComanda">
+            <summary>
+              Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:PastelariaDoZe.Properties.Resources.FinalizaFiado">
+            <summary>
+              Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:PastelariaDoZe.Properties.Resources.Flag_of_Brazil">
+            <summary>
+              Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:PastelariaDoZe.Properties.Resources.Flag_of_Spain">
+            <summary>
+              Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:PastelariaDoZe.Properties.Resources.Flag_of_the_United_States">
+            <summary>
+              Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:PastelariaDoZe.Properties.Resources.globo">
+            <summary>
+              Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:PastelariaDoZe.Properties.Resources.Icone_pastel">
+            <summary>
+              Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:PastelariaDoZe.Properties.Resources.Icone_pastel1">
+            <summary>
+              Consulta um recurso localizado do tipo System.Drawing.Icon semelhante a (Ícone).
+            </summary>
+        </member>
+        <member name="P:PastelariaDoZe.Properties.Resources.icons8_carteira_64">
+            <summary>
+              Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:PastelariaDoZe.Properties.Resources.icons8_carteira_641">
+            <summary>
+              Consulta um recurso localizado do tipo System.Drawing.Icon semelhante a (Ícone).
+            </summary>
+        </member>
+        <member name="P:PastelariaDoZe.Properties.Resources.icons8_question_mark_96">
+            <summary>
+              Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:PastelariaDoZe.Properties.Resources.Imagem_Pastelaria">
+            <summary>
+              Consulta um recurso localizado do tipo System.Drawing.Icon semelhante a (Ícone).
+            </summary>
+        </member>
+        <member name="P:PastelariaDoZe.Properties.Resources.Imagem_Pastelaria1">
+            <summary>
+              Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:PastelariaDoZe.Properties.Resources.login">
+            <summary>
+              Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:PastelariaDoZe.Properties.Resources.logout">
+            <summary>
+              Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:PastelariaDoZe.Properties.Resources.PagFiado">
+            <summary>
+              Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:PastelariaDoZe.Properties.Resources.PagVista">
+            <summary>
+              Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:PastelariaDoZe.Properties.Resources.pastel_mascote">
+            <summary>
+              Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:PastelariaDoZe.Properties.Resources.pesquisar">
+            <summary>
+              Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:PastelariaDoZe.Properties.Resources.produto">
+            <summary>
+              Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:PastelariaDoZe.Properties.Resources.produto1">
+            <summary>
+              Consulta um recurso localizado do tipo System.Drawing.Icon semelhante a (Ícone).
+            </summary>
+        </member>
+        <member name="P:PastelariaDoZe.Properties.Resources.receberFiado">
+            <summary>
+              Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:PastelariaDoZe.Properties.Resources.receberfiado1">
+            <summary>
+              Consulta um recurso localizado do tipo System.Drawing.Icon semelhante a (Ícone).
+            </summary>
+        </member>
+        <member name="P:PastelariaDoZe.Properties.Resources.sair">
+            <summary>
+              Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:PastelariaDoZe.Properties.Resources.salvar">
+            <summary>
+              Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,211 @@
+C:\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\bin\Debug\PastelariaDoZe.exe.config
+C:\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\bin\Debug\PastelariaDoZe.exe
+C:\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\bin\Debug\PastelariaDoZe.pdb
+C:\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.csprojAssemblyReference.cache
+C:\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.Properties.Resources.resources
+C:\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.csproj.GenerateResource.cache
+C:\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.csproj.CoreCompileInputs.cache
+C:\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.exe
+C:\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.pdb
+C:\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.Funcionarios.resources
+C:\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.MenuPrincipal.resources
+C:\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.CadastroClientes.resources
+C:\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.Comandas.resources
+C:\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.TelaConfiguracoes.resources
+C:\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.CadastroProdutos.resources
+C:\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.ComandasConsumo.resources
+C:\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.FecharComanda.resources
+C:\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.RecebeFiado.resources
+C:\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\bin\Debug\PastelariaDoZe.Biblioteca.dll
+C:\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\bin\Debug\PastelariaDoZe.Biblioteca.pdb
+C:\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.TelaLogin.resources
+C:\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.csproj.CopyComplete
+C:\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.Telas.FormMensagem.resources
+C:\OneDrive\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\bin\Debug\PastelariaDoZe.exe.config
+C:\OneDrive\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\bin\Debug\PastelariaDoZe.exe
+C:\OneDrive\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\bin\Debug\PastelariaDoZe.pdb
+C:\OneDrive\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\bin\Debug\PastelariaDoZe.Biblioteca.dll
+C:\OneDrive\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\bin\Debug\PastelariaDoZe.Biblioteca.pdb
+C:\OneDrive\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.csprojAssemblyReference.cache
+C:\OneDrive\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.CadastroClientes.resources
+C:\OneDrive\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.CadastroProdutos.resources
+C:\OneDrive\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.Comandas.resources
+C:\OneDrive\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.ComandasConsumo.resources
+C:\OneDrive\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.FecharComanda.resources
+C:\OneDrive\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.Telas.FormMensagem.resources
+C:\OneDrive\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.TelaLogin.resources
+C:\OneDrive\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.Funcionarios.resources
+C:\OneDrive\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.MenuPrincipal.resources
+C:\OneDrive\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.Properties.Resources.resources
+C:\OneDrive\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.RecebeFiado.resources
+C:\OneDrive\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.TelaConfiguracoes.resources
+C:\OneDrive\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.csproj.GenerateResource.cache
+C:\OneDrive\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.csproj.CoreCompileInputs.cache
+C:\OneDrive\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.csproj.CopyComplete
+C:\OneDrive\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.exe
+C:\OneDrive\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.pdb
+C:\OneDrive\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\bin\Debug\en\PastelariaDoZe.resources.dll
+C:\OneDrive\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\bin\Debug\es\PastelariaDoZe.resources.dll
+C:\OneDrive\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\bin\Debug\aa\PastelariaDoZe.resources.dll
+C:\OneDrive\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.CadastroClientes.en.resources
+C:\OneDrive\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.CadastroClientes.es.resources
+C:\OneDrive\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.CadastroProdutos.en.resources
+C:\OneDrive\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.CadastroProdutos.es.resources
+C:\OneDrive\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.Comandas.en.resources
+C:\OneDrive\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.Comandas.es.resources
+C:\OneDrive\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.ComandasConsumo.aa.resources
+C:\OneDrive\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.ComandasConsumo.en.resources
+C:\OneDrive\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.ComandasConsumo.es.resources
+C:\OneDrive\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.FecharComanda.en.resources
+C:\OneDrive\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.FecharComanda.es.resources
+C:\OneDrive\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.Funcionarios.en.resources
+C:\OneDrive\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.Funcionarios.es.resources
+C:\OneDrive\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.MenuPrincipal.en.resources
+C:\OneDrive\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.MenuPrincipal.es.resources
+C:\OneDrive\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.RecebeFiado.en.resources
+C:\OneDrive\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.RecebeFiado.es.resources
+C:\OneDrive\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.TelaConfiguracoes.en.resources
+C:\OneDrive\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.TelaConfiguracoes.es.resources
+C:\OneDrive\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.TelaLogin.en.resources
+C:\OneDrive\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.TelaLogin.es.resources
+C:\OneDrive\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\en\PastelariaDoZe.resources.dll
+C:\OneDrive\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\es\PastelariaDoZe.resources.dll
+C:\OneDrive\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\aa\PastelariaDoZe.resources.dll
+C:\OneDrive\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.Telas.FormLogout.resources
+C:\OneDrive\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.Telas.FormLogout.aa.resources
+C:\OneDrive\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.Telas.UserControlBusca.resources
+C:\OneDrive\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.Telas.UserControlDados.resources
+C:\OneDrive\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.Telas.UserControlBusca.en.resources
+C:\OneDrive\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.Telas.UserControlBusca.es.resources
+C:\OneDrive\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.Telas.UserControlDados.en.resources
+C:\OneDrive\Sistemas de Informação\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.Telas.UserControlDados.es.resources
+C:\OneDrive\Sistemas de Informacao\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\bin\Debug\PastelariaDoZe.exe.config
+C:\OneDrive\Sistemas de Informacao\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\bin\Debug\PastelariaDoZe.exe
+C:\OneDrive\Sistemas de Informacao\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\bin\Debug\PastelariaDoZe.pdb
+C:\OneDrive\Sistemas de Informacao\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\bin\Debug\en\PastelariaDoZe.resources.dll
+C:\OneDrive\Sistemas de Informacao\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\bin\Debug\es\PastelariaDoZe.resources.dll
+C:\OneDrive\Sistemas de Informacao\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\bin\Debug\aa\PastelariaDoZe.resources.dll
+C:\OneDrive\Sistemas de Informacao\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\bin\Debug\PastelariaDoZe.Biblioteca.dll
+C:\OneDrive\Sistemas de Informacao\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\bin\Debug\PastelariaDoZe.Biblioteca.pdb
+C:\OneDrive\Sistemas de Informacao\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.csprojAssemblyReference.cache
+C:\OneDrive\Sistemas de Informacao\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.CadastroClientes.resources
+C:\OneDrive\Sistemas de Informacao\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.CadastroProdutos.resources
+C:\OneDrive\Sistemas de Informacao\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.Comandas.resources
+C:\OneDrive\Sistemas de Informacao\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.ComandasConsumo.resources
+C:\OneDrive\Sistemas de Informacao\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.FecharComanda.resources
+C:\OneDrive\Sistemas de Informacao\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.Telas.FormLogout.resources
+C:\OneDrive\Sistemas de Informacao\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.Telas.FormMensagem.resources
+C:\OneDrive\Sistemas de Informacao\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.TelaLogin.resources
+C:\OneDrive\Sistemas de Informacao\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.Funcionarios.resources
+C:\OneDrive\Sistemas de Informacao\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.MenuPrincipal.resources
+C:\OneDrive\Sistemas de Informacao\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.Properties.Resources.resources
+C:\OneDrive\Sistemas de Informacao\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.RecebeFiado.resources
+C:\OneDrive\Sistemas de Informacao\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.TelaConfiguracoes.resources
+C:\OneDrive\Sistemas de Informacao\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.Telas.UserControlBusca.resources
+C:\OneDrive\Sistemas de Informacao\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.CadastroClientes.en.resources
+C:\OneDrive\Sistemas de Informacao\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.CadastroClientes.es.resources
+C:\OneDrive\Sistemas de Informacao\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.CadastroProdutos.en.resources
+C:\OneDrive\Sistemas de Informacao\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.CadastroProdutos.es.resources
+C:\OneDrive\Sistemas de Informacao\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.Comandas.en.resources
+C:\OneDrive\Sistemas de Informacao\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.Comandas.es.resources
+C:\OneDrive\Sistemas de Informacao\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.ComandasConsumo.aa.resources
+C:\OneDrive\Sistemas de Informacao\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.ComandasConsumo.en.resources
+C:\OneDrive\Sistemas de Informacao\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.ComandasConsumo.es.resources
+C:\OneDrive\Sistemas de Informacao\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.FecharComanda.en.resources
+C:\OneDrive\Sistemas de Informacao\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.FecharComanda.es.resources
+C:\OneDrive\Sistemas de Informacao\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.Telas.FormLogout.aa.resources
+C:\OneDrive\Sistemas de Informacao\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.Funcionarios.en.resources
+C:\OneDrive\Sistemas de Informacao\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.Funcionarios.es.resources
+C:\OneDrive\Sistemas de Informacao\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.MenuPrincipal.en.resources
+C:\OneDrive\Sistemas de Informacao\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.MenuPrincipal.es.resources
+C:\OneDrive\Sistemas de Informacao\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.RecebeFiado.en.resources
+C:\OneDrive\Sistemas de Informacao\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.RecebeFiado.es.resources
+C:\OneDrive\Sistemas de Informacao\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.TelaConfiguracoes.en.resources
+C:\OneDrive\Sistemas de Informacao\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.TelaConfiguracoes.es.resources
+C:\OneDrive\Sistemas de Informacao\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.TelaLogin.en.resources
+C:\OneDrive\Sistemas de Informacao\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.TelaLogin.es.resources
+C:\OneDrive\Sistemas de Informacao\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.Telas.UserControlBusca.en.resources
+C:\OneDrive\Sistemas de Informacao\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.Telas.UserControlBusca.es.resources
+C:\OneDrive\Sistemas de Informacao\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.csproj.GenerateResource.cache
+C:\OneDrive\Sistemas de Informacao\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.csproj.CoreCompileInputs.cache
+C:\OneDrive\Sistemas de Informacao\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\en\PastelariaDoZe.resources.dll
+C:\OneDrive\Sistemas de Informacao\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\es\PastelariaDoZe.resources.dll
+C:\OneDrive\Sistemas de Informacao\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\aa\PastelariaDoZe.resources.dll
+C:\OneDrive\Sistemas de Informacao\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.csproj.CopyComplete
+C:\OneDrive\Sistemas de Informacao\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.exe
+C:\OneDrive\Sistemas de Informacao\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.pdb
+C:\OneDrive\Sistemas de Informacao\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\bin\Debug\PastelariaDoZe.xml
+C:\OneDrive\Sistemas de Informacao\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.Telas.FormMensagemTray.resources
+C:\OneDrive\Sistemas de Informacao\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\bin\Debug\PastelariaDoZe.DAO.dll
+C:\OneDrive\Sistemas de Informacao\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\bin\Debug\PastelariaDoZe.DAO.pdb
+C:\OneDrive\Sistemas de Informacao\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.Telas.FormQuantidade.resources
+C:\OneDrive\Sistemas de Informacao\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.Telas.FormQuantidade.en.resources
+C:\OneDrive\Sistemas de Informacao\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.Telas.FormQuantidade.es.resources
+C:\OneDrive\Sistemas de Informacao\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.Telas.FormSenhaCliente.resources
+C:\OneDrive\Sistemas de Informacao\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.Telas.FormSenhaCliente.en.resources
+C:\OneDrive\Sistemas de Informacao\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.Telas.FormSenhaCliente.es.resources
+C:\PastelariaDoZe\PastelariaDoZe\bin\Debug\PastelariaDoZe.exe.config
+C:\PastelariaDoZe\PastelariaDoZe\bin\Debug\PastelariaDoZe.xml
+C:\PastelariaDoZe\PastelariaDoZe\bin\Debug\PastelariaDoZe.exe
+C:\PastelariaDoZe\PastelariaDoZe\bin\Debug\PastelariaDoZe.pdb
+C:\PastelariaDoZe\PastelariaDoZe\bin\Debug\en\PastelariaDoZe.resources.dll
+C:\PastelariaDoZe\PastelariaDoZe\bin\Debug\es\PastelariaDoZe.resources.dll
+C:\PastelariaDoZe\PastelariaDoZe\bin\Debug\aa\PastelariaDoZe.resources.dll
+C:\PastelariaDoZe\PastelariaDoZe\bin\Debug\PastelariaDoZe.Biblioteca.dll
+C:\PastelariaDoZe\PastelariaDoZe\bin\Debug\PastelariaDoZe.DAO.dll
+C:\PastelariaDoZe\PastelariaDoZe\bin\Debug\PastelariaDoZe.Biblioteca.pdb
+C:\PastelariaDoZe\PastelariaDoZe\bin\Debug\PastelariaDoZe.DAO.pdb
+C:\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.csprojAssemblyReference.cache
+C:\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.CadastroClientes.resources
+C:\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.CadastroProdutos.resources
+C:\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.Comandas.resources
+C:\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.ComandasConsumo.resources
+C:\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.FecharComanda.resources
+C:\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.Telas.FormLogout.resources
+C:\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.Telas.FormMensagem.resources
+C:\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.Telas.FormMensagemTray.resources
+C:\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.Telas.FormQuantidade.resources
+C:\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.Telas.FormSenhaCliente.resources
+C:\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.TelaLogin.resources
+C:\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.Funcionarios.resources
+C:\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.MenuPrincipal.resources
+C:\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.Properties.Resources.resources
+C:\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.RecebeFiado.resources
+C:\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.TelaConfiguracoes.resources
+C:\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.Telas.UserControlBusca.resources
+C:\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.CadastroClientes.en.resources
+C:\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.CadastroClientes.es.resources
+C:\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.CadastroProdutos.en.resources
+C:\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.CadastroProdutos.es.resources
+C:\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.Comandas.en.resources
+C:\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.Comandas.es.resources
+C:\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.ComandasConsumo.aa.resources
+C:\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.ComandasConsumo.en.resources
+C:\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.ComandasConsumo.es.resources
+C:\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.FecharComanda.en.resources
+C:\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.FecharComanda.es.resources
+C:\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.Telas.FormLogout.aa.resources
+C:\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.Telas.FormQuantidade.en.resources
+C:\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.Telas.FormQuantidade.es.resources
+C:\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.Telas.FormSenhaCliente.en.resources
+C:\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.Telas.FormSenhaCliente.es.resources
+C:\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.Funcionarios.en.resources
+C:\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.Funcionarios.es.resources
+C:\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.MenuPrincipal.en.resources
+C:\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.MenuPrincipal.es.resources
+C:\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.RecebeFiado.en.resources
+C:\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.RecebeFiado.es.resources
+C:\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.TelaConfiguracoes.en.resources
+C:\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.TelaConfiguracoes.es.resources
+C:\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.TelaLogin.en.resources
+C:\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.TelaLogin.es.resources
+C:\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.Telas.UserControlBusca.en.resources
+C:\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.Telas.UserControlBusca.es.resources
+C:\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.csproj.GenerateResource.cache
+C:\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.csproj.CoreCompileInputs.cache
+C:\PastelariaDoZe\PastelariaDoZe\obj\Debug\en\PastelariaDoZe.resources.dll
+C:\PastelariaDoZe\PastelariaDoZe\obj\Debug\es\PastelariaDoZe.resources.dll
+C:\PastelariaDoZe\PastelariaDoZe\obj\Debug\aa\PastelariaDoZe.resources.dll
+C:\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.csproj.CopyComplete
+C:\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.exe
+C:\PastelariaDoZe\PastelariaDoZe\obj\Debug\PastelariaDoZe.pdb

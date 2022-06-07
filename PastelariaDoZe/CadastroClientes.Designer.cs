@@ -1,0 +1,456 @@
+﻿namespace PastelariaDoZe
+{
+    partial class CadastroClientes
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            this.menuStripEscolha = new System.Windows.Forms.MenuStrip();
+            this.dashboardToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.comandasToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
+            this.fiadosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.pagamentosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.funcionáriosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.clientesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.produtosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.comandasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.recebeFiadoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.configuraçõesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.buttonSalvarFunc = new System.Windows.Forms.Button();
+            this.buttonEditarFunc = new System.Windows.Forms.Button();
+            this.buttonPesquisarFunc = new System.Windows.Forms.Button();
+            this.textBoxBuscaFunc = new System.Windows.Forms.TextBox();
+            this.label2 = new System.Windows.Forms.Label();
+            this.label1 = new System.Windows.Forms.Label();
+            this.textBoxNomeFunc = new System.Windows.Forms.TextBox();
+            this.textBoxIDFunc = new System.Windows.Forms.TextBox();
+            this.label5 = new System.Windows.Forms.Label();
+            this.textBoxTelFunc = new System.Windows.Forms.TextBox();
+            this.radioButtonFiado = new System.Windows.Forms.RadioButton();
+            this.label4 = new System.Windows.Forms.Label();
+            this.textBoxCPFFunc = new System.Windows.Forms.TextBox();
+            this.dateTimePickerPagamentoCliente = new System.Windows.Forms.DateTimePicker();
+            this.label3 = new System.Windows.Forms.Label();
+            this.label7 = new System.Windows.Forms.Label();
+            this.label6 = new System.Windows.Forms.Label();
+            this.textBoxReSenhaFunc = new System.Windows.Forms.TextBox();
+            this.textBoxSenhaFunc = new System.Windows.Forms.TextBox();
+            this.dataGridView1 = new System.Windows.Forms.DataGridView();
+            this.ID = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Nome = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Grupo = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.CPF = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Telefone = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.LiberaFiado = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.menuStripEscolha.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
+            this.SuspendLayout();
+            // 
+            // menuStripEscolha
+            // 
+            this.menuStripEscolha.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(224)))), ((int)(((byte)(192)))));
+            this.menuStripEscolha.GripMargin = new System.Windows.Forms.Padding(2, 2, 0, 2);
+            this.menuStripEscolha.ImageScalingSize = new System.Drawing.Size(24, 24);
+            this.menuStripEscolha.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.dashboardToolStripMenuItem,
+            this.funcionáriosToolStripMenuItem,
+            this.clientesToolStripMenuItem,
+            this.produtosToolStripMenuItem,
+            this.comandasToolStripMenuItem,
+            this.recebeFiadoToolStripMenuItem,
+            this.configuraçõesToolStripMenuItem});
+            this.menuStripEscolha.Location = new System.Drawing.Point(0, 0);
+            this.menuStripEscolha.Name = "menuStripEscolha";
+            this.menuStripEscolha.Size = new System.Drawing.Size(970, 33);
+            this.menuStripEscolha.TabIndex = 4;
+            this.menuStripEscolha.Text = "menuStrip1";
+            // 
+            // dashboardToolStripMenuItem
+            // 
+            this.dashboardToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.comandasToolStripMenuItem1,
+            this.fiadosToolStripMenuItem,
+            this.pagamentosToolStripMenuItem});
+            this.dashboardToolStripMenuItem.Name = "dashboardToolStripMenuItem";
+            this.dashboardToolStripMenuItem.Size = new System.Drawing.Size(116, 29);
+            this.dashboardToolStripMenuItem.Text = "Dashboard";
+            // 
+            // comandasToolStripMenuItem1
+            // 
+            this.comandasToolStripMenuItem1.Name = "comandasToolStripMenuItem1";
+            this.comandasToolStripMenuItem1.Size = new System.Drawing.Size(212, 34);
+            this.comandasToolStripMenuItem1.Text = "Comandas";
+            // 
+            // fiadosToolStripMenuItem
+            // 
+            this.fiadosToolStripMenuItem.Name = "fiadosToolStripMenuItem";
+            this.fiadosToolStripMenuItem.Size = new System.Drawing.Size(212, 34);
+            this.fiadosToolStripMenuItem.Text = "Fiados";
+            // 
+            // pagamentosToolStripMenuItem
+            // 
+            this.pagamentosToolStripMenuItem.Name = "pagamentosToolStripMenuItem";
+            this.pagamentosToolStripMenuItem.Size = new System.Drawing.Size(212, 34);
+            this.pagamentosToolStripMenuItem.Text = "Pagamentos";
+            // 
+            // funcionáriosToolStripMenuItem
+            // 
+            this.funcionáriosToolStripMenuItem.Name = "funcionáriosToolStripMenuItem";
+            this.funcionáriosToolStripMenuItem.Size = new System.Drawing.Size(128, 29);
+            this.funcionáriosToolStripMenuItem.Text = "Funcionários";
+            this.funcionáriosToolStripMenuItem.Click += new System.EventHandler(this.funcionáriosToolStripMenuItem_Click);
+            // 
+            // clientesToolStripMenuItem
+            // 
+            this.clientesToolStripMenuItem.Name = "clientesToolStripMenuItem";
+            this.clientesToolStripMenuItem.Size = new System.Drawing.Size(89, 29);
+            this.clientesToolStripMenuItem.Text = "Clientes";
+            // 
+            // produtosToolStripMenuItem
+            // 
+            this.produtosToolStripMenuItem.Name = "produtosToolStripMenuItem";
+            this.produtosToolStripMenuItem.Size = new System.Drawing.Size(101, 29);
+            this.produtosToolStripMenuItem.Text = "Produtos";
+            // 
+            // comandasToolStripMenuItem
+            // 
+            this.comandasToolStripMenuItem.Name = "comandasToolStripMenuItem";
+            this.comandasToolStripMenuItem.Size = new System.Drawing.Size(113, 29);
+            this.comandasToolStripMenuItem.Text = "Comandas";
+            // 
+            // recebeFiadoToolStripMenuItem
+            // 
+            this.recebeFiadoToolStripMenuItem.Name = "recebeFiadoToolStripMenuItem";
+            this.recebeFiadoToolStripMenuItem.Size = new System.Drawing.Size(133, 29);
+            this.recebeFiadoToolStripMenuItem.Text = "Recebe Fiado";
+            // 
+            // configuraçõesToolStripMenuItem
+            // 
+            this.configuraçõesToolStripMenuItem.Name = "configuraçõesToolStripMenuItem";
+            this.configuraçõesToolStripMenuItem.Size = new System.Drawing.Size(142, 29);
+            this.configuraçõesToolStripMenuItem.Text = "Configurações";
+            // 
+            // buttonSalvarFunc
+            // 
+            this.buttonSalvarFunc.Location = new System.Drawing.Point(509, 56);
+            this.buttonSalvarFunc.Name = "buttonSalvarFunc";
+            this.buttonSalvarFunc.Size = new System.Drawing.Size(115, 43);
+            this.buttonSalvarFunc.TabIndex = 11;
+            this.buttonSalvarFunc.Text = "Salvar";
+            this.buttonSalvarFunc.UseVisualStyleBackColor = true;
+            // 
+            // buttonEditarFunc
+            // 
+            this.buttonEditarFunc.Location = new System.Drawing.Point(388, 56);
+            this.buttonEditarFunc.Name = "buttonEditarFunc";
+            this.buttonEditarFunc.Size = new System.Drawing.Size(115, 43);
+            this.buttonEditarFunc.TabIndex = 10;
+            this.buttonEditarFunc.Text = "Editar";
+            this.buttonEditarFunc.UseVisualStyleBackColor = true;
+            // 
+            // buttonPesquisarFunc
+            // 
+            this.buttonPesquisarFunc.Location = new System.Drawing.Point(257, 56);
+            this.buttonPesquisarFunc.Name = "buttonPesquisarFunc";
+            this.buttonPesquisarFunc.Size = new System.Drawing.Size(125, 43);
+            this.buttonPesquisarFunc.TabIndex = 9;
+            this.buttonPesquisarFunc.Text = "Pesquisar";
+            this.buttonPesquisarFunc.UseVisualStyleBackColor = true;
+            // 
+            // textBoxBuscaFunc
+            // 
+            this.textBoxBuscaFunc.Location = new System.Drawing.Point(12, 56);
+            this.textBoxBuscaFunc.Name = "textBoxBuscaFunc";
+            this.textBoxBuscaFunc.Size = new System.Drawing.Size(239, 26);
+            this.textBoxBuscaFunc.TabIndex = 8;
+            this.textBoxBuscaFunc.Text = "Buscar";
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Font = new System.Drawing.Font("Comic Sans MS", 8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.Location = new System.Drawing.Point(155, 129);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(50, 23);
+            this.label2.TabIndex = 15;
+            this.label2.Text = "Nome";
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Comic Sans MS", 8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Location = new System.Drawing.Point(20, 132);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(31, 23);
+            this.label1.TabIndex = 14;
+            this.label1.Text = "ID";
+            // 
+            // textBoxNomeFunc
+            // 
+            this.textBoxNomeFunc.Location = new System.Drawing.Point(159, 155);
+            this.textBoxNomeFunc.Name = "textBoxNomeFunc";
+            this.textBoxNomeFunc.Size = new System.Drawing.Size(260, 26);
+            this.textBoxNomeFunc.TabIndex = 13;
+            // 
+            // textBoxIDFunc
+            // 
+            this.textBoxIDFunc.Location = new System.Drawing.Point(24, 155);
+            this.textBoxIDFunc.Name = "textBoxIDFunc";
+            this.textBoxIDFunc.Size = new System.Drawing.Size(100, 26);
+            this.textBoxIDFunc.TabIndex = 12;
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Font = new System.Drawing.Font("Comic Sans MS", 8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label5.Location = new System.Drawing.Point(440, 129);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(74, 23);
+            this.label5.TabIndex = 17;
+            this.label5.Text = "Telefone";
+            // 
+            // textBoxTelFunc
+            // 
+            this.textBoxTelFunc.Location = new System.Drawing.Point(444, 155);
+            this.textBoxTelFunc.Name = "textBoxTelFunc";
+            this.textBoxTelFunc.Size = new System.Drawing.Size(195, 26);
+            this.textBoxTelFunc.TabIndex = 16;
+            // 
+            // radioButtonFiado
+            // 
+            this.radioButtonFiado.AutoSize = true;
+            this.radioButtonFiado.Location = new System.Drawing.Point(658, 156);
+            this.radioButtonFiado.Name = "radioButtonFiado";
+            this.radioButtonFiado.Size = new System.Drawing.Size(118, 24);
+            this.radioButtonFiado.TabIndex = 18;
+            this.radioButtonFiado.TabStop = true;
+            this.radioButtonFiado.Text = "LiberaFiado";
+            this.radioButtonFiado.UseVisualStyleBackColor = true;
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Font = new System.Drawing.Font("Comic Sans MS", 8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label4.Location = new System.Drawing.Point(20, 214);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(38, 23);
+            this.label4.TabIndex = 20;
+            this.label4.Text = "CPF";
+            // 
+            // textBoxCPFFunc
+            // 
+            this.textBoxCPFFunc.Location = new System.Drawing.Point(24, 240);
+            this.textBoxCPFFunc.Name = "textBoxCPFFunc";
+            this.textBoxCPFFunc.Size = new System.Drawing.Size(227, 26);
+            this.textBoxCPFFunc.TabIndex = 19;
+            // 
+            // dateTimePickerPagamentoCliente
+            // 
+            this.dateTimePickerPagamentoCliente.Location = new System.Drawing.Point(271, 240);
+            this.dateTimePickerPagamentoCliente.Name = "dateTimePickerPagamentoCliente";
+            this.dateTimePickerPagamentoCliente.Size = new System.Drawing.Size(200, 26);
+            this.dateTimePickerPagamentoCliente.TabIndex = 21;
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Font = new System.Drawing.Font("Comic Sans MS", 8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.Location = new System.Drawing.Point(267, 214);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(124, 23);
+            this.label3.TabIndex = 22;
+            this.label3.Text = "Data Pagamento";
+            // 
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.Font = new System.Drawing.Font("Comic Sans MS", 8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label7.Location = new System.Drawing.Point(646, 214);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(120, 23);
+            this.label7.TabIndex = 26;
+            this.label7.Text = "Confirma senha";
+            // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Font = new System.Drawing.Font("Comic Sans MS", 8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label6.Location = new System.Drawing.Point(506, 214);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(53, 23);
+            this.label6.TabIndex = 25;
+            this.label6.Text = "Senha";
+            // 
+            // textBoxReSenhaFunc
+            // 
+            this.textBoxReSenhaFunc.Location = new System.Drawing.Point(650, 240);
+            this.textBoxReSenhaFunc.Name = "textBoxReSenhaFunc";
+            this.textBoxReSenhaFunc.Size = new System.Drawing.Size(133, 26);
+            this.textBoxReSenhaFunc.TabIndex = 24;
+            // 
+            // textBoxSenhaFunc
+            // 
+            this.textBoxSenhaFunc.Location = new System.Drawing.Point(506, 240);
+            this.textBoxSenhaFunc.Name = "textBoxSenhaFunc";
+            this.textBoxSenhaFunc.Size = new System.Drawing.Size(133, 26);
+            this.textBoxSenhaFunc.TabIndex = 23;
+            // 
+            // dataGridView1
+            // 
+            this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridView1.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
+            this.ID,
+            this.Nome,
+            this.Grupo,
+            this.CPF,
+            this.Telefone,
+            this.LiberaFiado});
+            this.dataGridView1.Location = new System.Drawing.Point(0, 272);
+            this.dataGridView1.Name = "dataGridView1";
+            this.dataGridView1.RowHeadersWidth = 62;
+            this.dataGridView1.RowTemplate.Height = 28;
+            this.dataGridView1.Size = new System.Drawing.Size(968, 227);
+            this.dataGridView1.TabIndex = 27;
+            // 
+            // ID
+            // 
+            this.ID.HeaderText = "ID";
+            this.ID.MinimumWidth = 8;
+            this.ID.Name = "ID";
+            this.ID.Width = 150;
+            // 
+            // Nome
+            // 
+            this.Nome.HeaderText = "Nome";
+            this.Nome.MinimumWidth = 8;
+            this.Nome.Name = "Nome";
+            this.Nome.Width = 150;
+            // 
+            // Grupo
+            // 
+            this.Grupo.HeaderText = "Data Pagamento";
+            this.Grupo.MinimumWidth = 8;
+            this.Grupo.Name = "Grupo";
+            this.Grupo.Width = 150;
+            // 
+            // CPF
+            // 
+            this.CPF.HeaderText = "CPF";
+            this.CPF.MinimumWidth = 8;
+            this.CPF.Name = "CPF";
+            this.CPF.Width = 150;
+            // 
+            // Telefone
+            // 
+            this.Telefone.HeaderText = "Telefone";
+            this.Telefone.MinimumWidth = 8;
+            this.Telefone.Name = "Telefone";
+            this.Telefone.Width = 150;
+            // 
+            // LiberaFiado
+            // 
+            this.LiberaFiado.HeaderText = "Libera FIado";
+            this.LiberaFiado.MinimumWidth = 8;
+            this.LiberaFiado.Name = "LiberaFiado";
+            this.LiberaFiado.Width = 150;
+            // 
+            // CadastroClientes
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(970, 450);
+            this.Controls.Add(this.dataGridView1);
+            this.Controls.Add(this.label7);
+            this.Controls.Add(this.label6);
+            this.Controls.Add(this.textBoxReSenhaFunc);
+            this.Controls.Add(this.textBoxSenhaFunc);
+            this.Controls.Add(this.label3);
+            this.Controls.Add(this.dateTimePickerPagamentoCliente);
+            this.Controls.Add(this.label4);
+            this.Controls.Add(this.textBoxCPFFunc);
+            this.Controls.Add(this.radioButtonFiado);
+            this.Controls.Add(this.label5);
+            this.Controls.Add(this.textBoxTelFunc);
+            this.Controls.Add(this.label2);
+            this.Controls.Add(this.label1);
+            this.Controls.Add(this.textBoxNomeFunc);
+            this.Controls.Add(this.textBoxIDFunc);
+            this.Controls.Add(this.buttonSalvarFunc);
+            this.Controls.Add(this.buttonEditarFunc);
+            this.Controls.Add(this.buttonPesquisarFunc);
+            this.Controls.Add(this.textBoxBuscaFunc);
+            this.Controls.Add(this.menuStripEscolha);
+            this.Name = "CadastroClientes";
+            this.Text = "CadastroClientes";
+            this.menuStripEscolha.ResumeLayout(false);
+            this.menuStripEscolha.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
+        }
+
+        #endregion
+
+        private System.Windows.Forms.MenuStrip menuStripEscolha;
+        private System.Windows.Forms.ToolStripMenuItem dashboardToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem comandasToolStripMenuItem1;
+        private System.Windows.Forms.ToolStripMenuItem fiadosToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem pagamentosToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem funcionáriosToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem clientesToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem produtosToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem comandasToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem recebeFiadoToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem configuraçõesToolStripMenuItem;
+        private System.Windows.Forms.Button buttonSalvarFunc;
+        private System.Windows.Forms.Button buttonEditarFunc;
+        private System.Windows.Forms.Button buttonPesquisarFunc;
+        private System.Windows.Forms.TextBox textBoxBuscaFunc;
+        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.TextBox textBoxNomeFunc;
+        private System.Windows.Forms.TextBox textBoxIDFunc;
+        private System.Windows.Forms.Label label5;
+        private System.Windows.Forms.TextBox textBoxTelFunc;
+        private System.Windows.Forms.RadioButton radioButtonFiado;
+        private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.TextBox textBoxCPFFunc;
+        private System.Windows.Forms.DateTimePicker dateTimePickerPagamentoCliente;
+        private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Label label7;
+        private System.Windows.Forms.Label label6;
+        private System.Windows.Forms.TextBox textBoxReSenhaFunc;
+        private System.Windows.Forms.TextBox textBoxSenhaFunc;
+        private System.Windows.Forms.DataGridView dataGridView1;
+        private System.Windows.Forms.DataGridViewTextBoxColumn ID;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Nome;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Grupo;
+        private System.Windows.Forms.DataGridViewTextBoxColumn CPF;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Telefone;
+        private System.Windows.Forms.DataGridViewTextBoxColumn LiberaFiado;
+    }
+}

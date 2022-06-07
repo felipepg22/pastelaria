@@ -1,0 +1,1618 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="pictureBox1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>305, 3</value>
+  </data>
+  <data name="pictureBox1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>76, 65</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="pictureBox1.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>StretchImage</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="pictureBox1.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;pictureBox1.Name" xml:space="preserve">
+    <value>pictureBox1</value>
+  </data>
+  <data name="&gt;&gt;pictureBox1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pictureBox1.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="&gt;&gt;pictureBox1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="label1.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Comic Sans MS, 20.25pt</value>
+  </data>
+  <data name="label1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>385, 19</value>
+  </data>
+  <data name="label1.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 0, 2, 0</value>
+  </data>
+  <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>250, 38</value>
+  </data>
+  <data name="label1.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="label1.Text" xml:space="preserve">
+    <value>Adicionar Consumo</value>
+  </data>
+  <data name="&gt;&gt;label1.Name" xml:space="preserve">
+    <value>label1</value>
+  </data>
+  <data name="&gt;&gt;label1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label1.Parent" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="&gt;&gt;label1.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="panel1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>-12, -1</value>
+  </data>
+  <data name="panel1.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
+  <data name="panel1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1031, 72</value>
+  </data>
+  <data name="panel1.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;panel1.Name" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="&gt;&gt;panel1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;panel1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;panel1.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="dataGridViewComanda.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 43</value>
+  </data>
+  <data name="dataGridViewComanda.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
+  <data name="dataGridViewComanda.RowHeadersWidth" type="System.Int32, mscorlib">
+    <value>62</value>
+  </data>
+  <data name="dataGridViewComanda.Size" type="System.Drawing.Size, System.Drawing">
+    <value>356, 158</value>
+  </data>
+  <data name="dataGridViewComanda.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;dataGridViewComanda.Name" xml:space="preserve">
+    <value>dataGridViewComanda</value>
+  </data>
+  <data name="&gt;&gt;dataGridViewComanda.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridView, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dataGridViewComanda.Parent" xml:space="preserve">
+    <value>panel2</value>
+  </data>
+  <data name="&gt;&gt;dataGridViewComanda.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="vScrollBar1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>368, 43</value>
+  </data>
+  <data name="vScrollBar1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>26, 160</value>
+  </data>
+  <data name="vScrollBar1.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;vScrollBar1.Name" xml:space="preserve">
+    <value>vScrollBar1</value>
+  </data>
+  <data name="&gt;&gt;vScrollBar1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.VScrollBar, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;vScrollBar1.Parent" xml:space="preserve">
+    <value>panel2</value>
+  </data>
+  <data name="&gt;&gt;vScrollBar1.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="buttonExcluiComanda.ImageIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <metadata name="imageListAddConsumo.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>16, 16</value>
+  </metadata>
+  <data name="imageListAddConsumo.ImageStream" mimetype="application/x-microsoft.net.object.binary.base64">
+    <value>
+        AAEAAAD/////AQAAAAAAAAAMAgAAAFdTeXN0ZW0uV2luZG93cy5Gb3JtcywgVmVyc2lvbj00LjAuMC4w
+        LCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWI3N2E1YzU2MTkzNGUwODkFAQAAACZTeXN0
+        ZW0uV2luZG93cy5Gb3Jtcy5JbWFnZUxpc3RTdHJlYW1lcgEAAAAERGF0YQcCAgAAAAkDAAAADwMAAACg
+        DAAAAk1TRnQBSQFMAgEBBQEAAYwBAAGMAQABFAEAARQBAAT/AQkBAAj/AUIBTQE2AQQGAAE2AQQCAAEo
+        AwABUAMAASgDAAEBAQABCAUAAYABDBgAAYACAAGAAwACgAEAAYADAAGAAQABgAEAAoACAAPAAQABwAHc
+        AcABAAHwAcoBpgEAATMFAAEzAQABMwEAATMBAAIzAgADFgEAAxwBAAMiAQADKQEAA1UBAANNAQADQgEA
+        AzkBAAGAAXwB/wEAAlAB/wEAAZMBAAHWAQAB/wHsAcwBAAHGAdYB7wEAAdYC5wEAAZABqQGtAgAB/wEz
+        AwABZgMAAZkDAAHMAgABMwMAAjMCAAEzAWYCAAEzAZkCAAEzAcwCAAEzAf8CAAFmAwABZgEzAgACZgIA
+        AWYBmQIAAWYBzAIAAWYB/wIAAZkDAAGZATMCAAGZAWYCAAKZAgABmQHMAgABmQH/AgABzAMAAcwBMwIA
+        AcwBZgIAAcwBmQIAAswCAAHMAf8CAAH/AWYCAAH/AZkCAAH/AcwBAAEzAf8CAAH/AQABMwEAATMBAAFm
+        AQABMwEAAZkBAAEzAQABzAEAATMBAAH/AQAB/wEzAgADMwEAAjMBZgEAAjMBmQEAAjMBzAEAAjMB/wEA
+        ATMBZgIAATMBZgEzAQABMwJmAQABMwFmAZkBAAEzAWYBzAEAATMBZgH/AQABMwGZAgABMwGZATMBAAEz
+        AZkBZgEAATMCmQEAATMBmQHMAQABMwGZAf8BAAEzAcwCAAEzAcwBMwEAATMBzAFmAQABMwHMAZkBAAEz
+        AswBAAEzAcwB/wEAATMB/wEzAQABMwH/AWYBAAEzAf8BmQEAATMB/wHMAQABMwL/AQABZgMAAWYBAAEz
+        AQABZgEAAWYBAAFmAQABmQEAAWYBAAHMAQABZgEAAf8BAAFmATMCAAFmAjMBAAFmATMBZgEAAWYBMwGZ
+        AQABZgEzAcwBAAFmATMB/wEAAmYCAAJmATMBAANmAQACZgGZAQACZgHMAQABZgGZAgABZgGZATMBAAFm
+        AZkBZgEAAWYCmQEAAWYBmQHMAQABZgGZAf8BAAFmAcwCAAFmAcwBMwEAAWYBzAGZAQABZgLMAQABZgHM
+        Af8BAAFmAf8CAAFmAf8BMwEAAWYB/wGZAQABZgH/AcwBAAHMAQAB/wEAAf8BAAHMAQACmQIAAZkBMwGZ
+        AQABmQEAAZkBAAGZAQABzAEAAZkDAAGZAjMBAAGZAQABZgEAAZkBMwHMAQABmQEAAf8BAAGZAWYCAAGZ
+        AWYBMwEAAZkBMwFmAQABmQFmAZkBAAGZAWYBzAEAAZkBMwH/AQACmQEzAQACmQFmAQADmQEAApkBzAEA
+        ApkB/wEAAZkBzAIAAZkBzAEzAQABZgHMAWYBAAGZAcwBmQEAAZkCzAEAAZkBzAH/AQABmQH/AgABmQH/
+        ATMBAAGZAcwBZgEAAZkB/wGZAQABmQH/AcwBAAGZAv8BAAHMAwABmQEAATMBAAHMAQABZgEAAcwBAAGZ
+        AQABzAEAAcwBAAGZATMCAAHMAjMBAAHMATMBZgEAAcwBMwGZAQABzAEzAcwBAAHMATMB/wEAAcwBZgIA
+        AcwBZgEzAQABmQJmAQABzAFmAZkBAAHMAWYBzAEAAZkBZgH/AQABzAGZAgABzAGZATMBAAHMAZkBZgEA
+        AcwCmQEAAcwBmQHMAQABzAGZAf8BAALMAgACzAEzAQACzAFmAQACzAGZAQADzAEAAswB/wEAAcwB/wIA
+        AcwB/wEzAQABmQH/AWYBAAHMAf8BmQEAAcwB/wHMAQABzAL/AQABzAEAATMBAAH/AQABZgEAAf8BAAGZ
+        AQABzAEzAgAB/wIzAQAB/wEzAWYBAAH/ATMBmQEAAf8BMwHMAQAB/wEzAf8BAAH/AWYCAAH/AWYBMwEA
+        AcwCZgEAAf8BZgGZAQAB/wFmAcwBAAHMAWYB/wEAAf8BmQIAAf8BmQEzAQAB/wGZAWYBAAH/ApkBAAH/
+        AZkBzAEAAf8BmQH/AQAB/wHMAgAB/wHMATMBAAH/AcwBZgEAAf8BzAGZAQAB/wLMAQAB/wHMAf8BAAL/
+        ATMBAAHMAf8BZgEAAv8BmQEAAv8BzAEAAmYB/wEAAWYB/wFmAQABZgL/AQAB/wJmAQAB/wFmAf8BAAL/
+        AWYBAAEhAQABpQEAA18BAAN3AQADhgEAA5YBAAPLAQADsgEAA9cBAAPdAQAD4wEAA+oBAAPxAQAD+AEA
+        AfAB+wH/AQABpAKgAQADgAMAAf8CAAH/AwAC/wEAAf8DAAH/AQAB/wEAAv8CAAP/YgABE04AARMBFAET
+        TAABEwEUARNGAAL/BAABEwEUARNEAAHsBm0B/wFtAeoBE0QAAm0F2wHrA21EAAJtCNsBbQH/RAABbQnb
+        AesBbUMAAm0K2wFtQwABbQG0CtsBbQH/QgABbQvbAW0B/0IAAW0BtArbAW1DAAHwAW0C2wEZBNsBGQLb
+        AW1EAAFtAbQC2wMZAQkC2wFtAexEAAH/AW0BtAbbAm1GAAH/Am0BtAHbAbQDbUkAAfAEbQH/+gAB9AIA
+        Af8M9BcAARkB4gP0Av8F9AL/A/QB4gH/FQACGQHzAf8B9AniAfQD4hUAARkB4gP0Af8J9AH/A/QB4gkA
+        Ae0BEQHvCQACGQHsBHoI4gH0AeIBGQUAAbwLAAEPBAAD9A2sAvQHAAH0AW4BdQESAREBbgF1ARQJAAR6
+        AnUDGQPiCgABvAsAAQ8FAAH0AqwJ/wKsAfQHAAERB3UBbgF1AfAHAAR6A3UEGQHiCwABvA4AA/QBrQr/
+        Aq0B9AH/AfQEAAHvC3UFAAH0AeIDmgV1BBkE4gH0BwABvA4AAvQBrQr/Aq0C9AH/BAAGdQH2BHUBbgEU
+        AwAC9AHiApoHdQQZA+IB9AgAAbwPAAGtAv8HvAH/Aq0GAAG8AXQFdQH2BnUEAAH0AuIJdQMZA+IB9AkA
+        AbwOAAGzCv8CswYAARABSwV1AfYFdQFuAe8DAAH/AuIBGQl1AxkB9BoAAbMK/wKzAeIC9AMAARADdQb2
+        AfICdQERAUMFAAH0AhkJdQIZGAAC9AHiAtQJ/wLUAeIB9AQAARABbgV1AfYFdQFEAe0FAAQZB3UC7AGS
+        AeIB9A0AAbwIAAL0AeIN1AYAAewBSwV1AfYGdQQAA+IEGQV1BOwBvAHiAfQNAAG8BwAC9AHiAtQBrAcH
+        A9QB4gL0BAAGdQH2BXUBbwMAAvQD4gQZA3UF7QGTAeIB9A4AAbwJAAHUAq0EvALrAbwD1AHiAvQEAAER
+        AXQKdQHzBAAB9APiBRkBdQaSAuMB9A8AAbwIAAHUAq0EvALsAbwD1AL0Af8FAAEQAXQIdQERCgAB/wQZ
+        BfcD4xEAAbwEAAP0AdQCrATwAuwB8ALUAeIB9AgAAREBdQFLAW4BdQFLAXQBdQHvDAAB4gMZBO8DsQH/
+        EgABvAMAAfQB/wH0AdoCrAfwAdoB4gL0Af8JAAHtAxABvA0AAfQF4gLvA7EB/xwAAf8C4gMZAuID9AH/
+        AfQZAAH/AfQI4gKxAfQB4gH0HAAD9AHiA/QfAAHiAvQF4gL0A+IaAAH/AfQB/wf0Af8B9FQAAUIBTQE+
+        BwABPgMAASgDAAFQAwABKAMAAQEBAAEBBQAB4AEBFgAD/wEAAv8B8AkAAv8BsAkAAv8BEAkAAf8B/gEw
+        CQAB/wE8AXAJAAH4AQAB8AkAAfABAQHwCQAB4AEBAfAJAAHgAQEB8AkAAcABAQHwCQABwAEAAfAJAAHA
+        AQAB8AkAAcABAQHwCQABwAEBAfAJAAHgAQEB8AkAAeABAwHwCQAB8AEHAfAJAAH8AQ8B8AkAAv8B8AkA
+        Av8B8AkAAv8B/QGAAQMC/wH4BAAC/wH4AQABAQL/AfAEAAH/AY8B+AEAAQEB9wH/AXgBAAEBAgAB/AED
+        Af4BAAEfAeMB/gE+AQABAwIAAfgBAAH+AQABHwHxAfwBeAQAAfABAAH4AgAC+AH8BAAB8AEAAXACAAH8
+        AXEB/wEAAQcCAAHgAQABeAIAAf4BIwH/AQABBwIAAeABAAE4AQABAwH/AQcB/wQAAeABAAE+AQABBwH/
+        AY8B+AEAAQECAAHgAQABPgEAAQEB/wEHAfgBAAEHAgAB4AEAAXgCAAH+ASMB+AQAAfABAAFwAgAB/AFx
+        Af8EAAHwAQABeAIAAvgB/wQAAfgBAAH/AcABAQHxAfwBeAEAAQMCAAH8AQEB/wHgAQEB4wH+ATgBAAEB
+        AgAB/wEHAf8BwAEDAfcB/wF/AcABAQIAA/8BAAEBA/8B4AE/AgAD/wGAAQMD/wEAAQ8CAAr/AgAL
+</value>
+  </data>
+  <data name="buttonExcluiComanda.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="buttonExcluiComanda.Location" type="System.Drawing.Point, System.Drawing">
+    <value>335, -1</value>
+  </data>
+  <data name="buttonExcluiComanda.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
+  <data name="buttonExcluiComanda.Size" type="System.Drawing.Size, System.Drawing">
+    <value>46, 37</value>
+  </data>
+  <data name="buttonExcluiComanda.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="&gt;&gt;buttonExcluiComanda.Name" xml:space="preserve">
+    <value>buttonExcluiComanda</value>
+  </data>
+  <data name="&gt;&gt;buttonExcluiComanda.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;buttonExcluiComanda.Parent" xml:space="preserve">
+    <value>panel4</value>
+  </data>
+  <data name="&gt;&gt;buttonExcluiComanda.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="button1.ImageIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="button1.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>285, -1</value>
+  </data>
+  <data name="button1.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
+  <data name="button1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>46, 37</value>
+  </data>
+  <data name="button1.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;button1.Name" xml:space="preserve">
+    <value>button1</value>
+  </data>
+  <data name="&gt;&gt;button1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button1.Parent" xml:space="preserve">
+    <value>panel4</value>
+  </data>
+  <data name="&gt;&gt;button1.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="label3.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label3.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Comic Sans MS, 10pt</value>
+  </data>
+  <data name="label3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>77, 12</value>
+  </data>
+  <data name="label3.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 0, 2, 0</value>
+  </data>
+  <data name="label3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>27, 19</value>
+  </data>
+  <data name="label3.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="label3.Text" xml:space="preserve">
+    <value>Nº</value>
+  </data>
+  <data name="&gt;&gt;label3.Name" xml:space="preserve">
+    <value>label3</value>
+  </data>
+  <data name="&gt;&gt;label3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label3.Parent" xml:space="preserve">
+    <value>panel4</value>
+  </data>
+  <data name="&gt;&gt;label3.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="textBoxNumeroComanda.Location" type="System.Drawing.Point, System.Drawing">
+    <value>105, 14</value>
+  </data>
+  <data name="textBoxNumeroComanda.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
+  <data name="textBoxNumeroComanda.Size" type="System.Drawing.Size, System.Drawing">
+    <value>68, 20</value>
+  </data>
+  <data name="textBoxNumeroComanda.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;textBoxNumeroComanda.Name" xml:space="preserve">
+    <value>textBoxNumeroComanda</value>
+  </data>
+  <data name="&gt;&gt;textBoxNumeroComanda.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBoxNumeroComanda.Parent" xml:space="preserve">
+    <value>panel4</value>
+  </data>
+  <data name="&gt;&gt;textBoxNumeroComanda.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="label2.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Comic Sans MS, 10pt</value>
+  </data>
+  <data name="label2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>8, 12</value>
+  </data>
+  <data name="label2.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 0, 2, 0</value>
+  </data>
+  <data name="label2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>64, 19</value>
+  </data>
+  <data name="label2.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="label2.Text" xml:space="preserve">
+    <value>Comanda</value>
+  </data>
+  <data name="&gt;&gt;label2.Name" xml:space="preserve">
+    <value>label2</value>
+  </data>
+  <data name="&gt;&gt;label2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label2.Parent" xml:space="preserve">
+    <value>panel4</value>
+  </data>
+  <data name="&gt;&gt;label2.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="buttonSalvarComanda.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>None</value>
+  </data>
+  <data name="buttonSalvarComanda.ImageAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
+  <data name="buttonSalvarComanda.ImageKey" xml:space="preserve">
+    <value>salvar.png</value>
+  </data>
+  <data name="buttonSalvarComanda.Location" type="System.Drawing.Point, System.Drawing">
+    <value>203, 2</value>
+  </data>
+  <data name="buttonSalvarComanda.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
+  <data name="buttonSalvarComanda.Size" type="System.Drawing.Size, System.Drawing">
+    <value>79, 32</value>
+  </data>
+  <data name="buttonSalvarComanda.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="buttonSalvarComanda.Text" xml:space="preserve">
+    <value>   Criar</value>
+  </data>
+  <data name="&gt;&gt;buttonSalvarComanda.Name" xml:space="preserve">
+    <value>buttonSalvarComanda</value>
+  </data>
+  <data name="&gt;&gt;buttonSalvarComanda.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;buttonSalvarComanda.Parent" xml:space="preserve">
+    <value>panel4</value>
+  </data>
+  <data name="&gt;&gt;buttonSalvarComanda.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="panel4.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="panel4.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
+  <data name="panel4.Size" type="System.Drawing.Size, System.Drawing">
+    <value>384, 38</value>
+  </data>
+  <data name="panel4.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;panel4.Name" xml:space="preserve">
+    <value>panel4</value>
+  </data>
+  <data name="&gt;&gt;panel4.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;panel4.Parent" xml:space="preserve">
+    <value>panel2</value>
+  </data>
+  <data name="&gt;&gt;panel4.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="panel2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>20, 82</value>
+  </data>
+  <data name="panel2.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
+  <data name="panel2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>385, 203</value>
+  </data>
+  <data name="panel2.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;panel2.Name" xml:space="preserve">
+    <value>panel2</value>
+  </data>
+  <data name="&gt;&gt;panel2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;panel2.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;panel2.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="dataGridViewAddProduto.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 42</value>
+  </data>
+  <data name="dataGridViewAddProduto.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
+  <data name="dataGridViewAddProduto.RowHeadersWidth" type="System.Int32, mscorlib">
+    <value>62</value>
+  </data>
+  <data name="dataGridViewAddProduto.Size" type="System.Drawing.Size, System.Drawing">
+    <value>465, 366</value>
+  </data>
+  <data name="dataGridViewAddProduto.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;dataGridViewAddProduto.Name" xml:space="preserve">
+    <value>dataGridViewAddProduto</value>
+  </data>
+  <data name="&gt;&gt;dataGridViewAddProduto.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridView, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dataGridViewAddProduto.Parent" xml:space="preserve">
+    <value>panel3</value>
+  </data>
+  <data name="&gt;&gt;dataGridViewAddProduto.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="panel3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>548, 82</value>
+  </data>
+  <data name="panel3.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
+  <data name="panel3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>467, 410</value>
+  </data>
+  <data name="panel3.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;panel3.Name" xml:space="preserve">
+    <value>panel3</value>
+  </data>
+  <data name="&gt;&gt;panel3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;panel3.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;panel3.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="buttonAddProduto.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>None</value>
+  </data>
+  <data name="buttonAddProduto.ImageAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
+  <data name="buttonAddProduto.ImageKey" xml:space="preserve">
+    <value>addConsumo (2).png</value>
+  </data>
+  <data name="buttonAddProduto.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 34</value>
+  </data>
+  <data name="buttonAddProduto.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
+  <data name="buttonAddProduto.Size" type="System.Drawing.Size, System.Drawing">
+    <value>79, 32</value>
+  </data>
+  <data name="buttonAddProduto.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="buttonAddProduto.Text" xml:space="preserve">
+    <value>      Adicionar</value>
+  </data>
+  <data name="&gt;&gt;buttonAddProduto.Name" xml:space="preserve">
+    <value>buttonAddProduto</value>
+  </data>
+  <data name="&gt;&gt;buttonAddProduto.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;buttonAddProduto.Parent" xml:space="preserve">
+    <value>panel6</value>
+  </data>
+  <data name="&gt;&gt;buttonAddProduto.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="buttonExcluirProduto.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>None</value>
+  </data>
+  <data name="buttonExcluirProduto.ImageAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
+  <data name="buttonExcluirProduto.ImageKey" xml:space="preserve">
+    <value>excluirconsumo.png</value>
+  </data>
+  <data name="buttonExcluirProduto.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 80</value>
+  </data>
+  <data name="buttonExcluirProduto.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
+  <data name="buttonExcluirProduto.Size" type="System.Drawing.Size, System.Drawing">
+    <value>79, 32</value>
+  </data>
+  <data name="buttonExcluirProduto.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="buttonExcluirProduto.Text" xml:space="preserve">
+    <value>   Excluir</value>
+  </data>
+  <data name="&gt;&gt;buttonExcluirProduto.Name" xml:space="preserve">
+    <value>buttonExcluirProduto</value>
+  </data>
+  <data name="&gt;&gt;buttonExcluirProduto.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;buttonExcluirProduto.Parent" xml:space="preserve">
+    <value>panel6</value>
+  </data>
+  <data name="&gt;&gt;buttonExcluirProduto.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="buttonEditarProduto.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>None</value>
+  </data>
+  <data name="buttonEditarProduto.ImageAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
+  <data name="buttonEditarProduto.ImageKey" xml:space="preserve">
+    <value>editar.png</value>
+  </data>
+  <data name="buttonEditarProduto.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 126</value>
+  </data>
+  <data name="buttonEditarProduto.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
+  <data name="buttonEditarProduto.Size" type="System.Drawing.Size, System.Drawing">
+    <value>79, 32</value>
+  </data>
+  <data name="buttonEditarProduto.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="buttonEditarProduto.Text" xml:space="preserve">
+    <value>  Editar</value>
+  </data>
+  <data name="&gt;&gt;buttonEditarProduto.Name" xml:space="preserve">
+    <value>buttonEditarProduto</value>
+  </data>
+  <data name="&gt;&gt;buttonEditarProduto.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;buttonEditarProduto.Parent" xml:space="preserve">
+    <value>panel6</value>
+  </data>
+  <data name="&gt;&gt;buttonEditarProduto.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="buttonBuscaProduto.ImageIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="buttonBuscaProduto.Location" type="System.Drawing.Point, System.Drawing">
+    <value>417, -1</value>
+  </data>
+  <data name="buttonBuscaProduto.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
+  <data name="buttonBuscaProduto.Size" type="System.Drawing.Size, System.Drawing">
+    <value>46, 37</value>
+  </data>
+  <data name="buttonBuscaProduto.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;buttonBuscaProduto.Name" xml:space="preserve">
+    <value>buttonBuscaProduto</value>
+  </data>
+  <data name="&gt;&gt;buttonBuscaProduto.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;buttonBuscaProduto.Parent" xml:space="preserve">
+    <value>panel5</value>
+  </data>
+  <data name="&gt;&gt;buttonBuscaProduto.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="textBoxPesquisaProdutoComanda.Location" type="System.Drawing.Point, System.Drawing">
+    <value>83, 14</value>
+  </data>
+  <data name="textBoxPesquisaProdutoComanda.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
+  <data name="textBoxPesquisaProdutoComanda.Size" type="System.Drawing.Size, System.Drawing">
+    <value>331, 20</value>
+  </data>
+  <data name="textBoxPesquisaProdutoComanda.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;textBoxPesquisaProdutoComanda.Name" xml:space="preserve">
+    <value>textBoxPesquisaProdutoComanda</value>
+  </data>
+  <data name="&gt;&gt;textBoxPesquisaProdutoComanda.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBoxPesquisaProdutoComanda.Parent" xml:space="preserve">
+    <value>panel5</value>
+  </data>
+  <data name="&gt;&gt;textBoxPesquisaProdutoComanda.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="label4.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label4.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Comic Sans MS, 10pt</value>
+  </data>
+  <data name="label4.Location" type="System.Drawing.Point, System.Drawing">
+    <value>19, 12</value>
+  </data>
+  <data name="label4.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 0, 2, 0</value>
+  </data>
+  <data name="label4.Size" type="System.Drawing.Size, System.Drawing">
+    <value>63, 19</value>
+  </data>
+  <data name="label4.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="label4.Text" xml:space="preserve">
+    <value>Produto:</value>
+  </data>
+  <data name="&gt;&gt;label4.Name" xml:space="preserve">
+    <value>label4</value>
+  </data>
+  <data name="&gt;&gt;label4.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label4.Parent" xml:space="preserve">
+    <value>panel5</value>
+  </data>
+  <data name="&gt;&gt;label4.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="panel5.Location" type="System.Drawing.Point, System.Drawing">
+    <value>548, 82</value>
+  </data>
+  <data name="panel5.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
+  <data name="panel5.Size" type="System.Drawing.Size, System.Drawing">
+    <value>467, 38</value>
+  </data>
+  <data name="panel5.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;panel5.Name" xml:space="preserve">
+    <value>panel5</value>
+  </data>
+  <data name="&gt;&gt;panel5.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;panel5.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;panel5.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="panel6.Location" type="System.Drawing.Point, System.Drawing">
+    <value>425, 97</value>
+  </data>
+  <data name="panel6.Size" type="System.Drawing.Size, System.Drawing">
+    <value>109, 194</value>
+  </data>
+  <data name="panel6.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="&gt;&gt;panel6.Name" xml:space="preserve">
+    <value>panel6</value>
+  </data>
+  <data name="&gt;&gt;panel6.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;panel6.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;panel6.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="dataGridViewItensComanda.Location" type="System.Drawing.Point, System.Drawing">
+    <value>13, 20</value>
+  </data>
+  <data name="dataGridViewItensComanda.RowHeadersWidth" type="System.Int32, mscorlib">
+    <value>62</value>
+  </data>
+  <data name="dataGridViewItensComanda.Size" type="System.Drawing.Size, System.Drawing">
+    <value>443, 192</value>
+  </data>
+  <data name="dataGridViewItensComanda.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;dataGridViewItensComanda.Name" xml:space="preserve">
+    <value>dataGridViewItensComanda</value>
+  </data>
+  <data name="&gt;&gt;dataGridViewItensComanda.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridView, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dataGridViewItensComanda.Parent" xml:space="preserve">
+    <value>groupBoxItensComanda</value>
+  </data>
+  <data name="&gt;&gt;dataGridViewItensComanda.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="groupBoxItensComanda.Location" type="System.Drawing.Point, System.Drawing">
+    <value>20, 291</value>
+  </data>
+  <data name="groupBoxItensComanda.Size" type="System.Drawing.Size, System.Drawing">
+    <value>472, 212</value>
+  </data>
+  <data name="groupBoxItensComanda.TabIndex" type="System.Int32, mscorlib">
+    <value>12</value>
+  </data>
+  <data name="groupBoxItensComanda.Text" xml:space="preserve">
+    <value>Itens da Comanda</value>
+  </data>
+  <data name="&gt;&gt;groupBoxItensComanda.Name" xml:space="preserve">
+    <value>groupBoxItensComanda</value>
+  </data>
+  <data name="&gt;&gt;groupBoxItensComanda.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;groupBoxItensComanda.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;groupBoxItensComanda.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>52</value>
+  </metadata>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>6, 13</value>
+  </data>
+  <data name="$this.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>1020, 456</value>
+  </data>
+  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAABAAEAZGQAAAEAIACoogAAFgAAACgAAABkAAAAyAAAAAEAIAAAAAAAQJwAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAmWaZCp5t
+        jFSfa4yKnmyOtp9rjd+fbI3un2yN7p9sjf+fbI3tn2uNxZ9rjZ2gbY1unGuMHwAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACfa4xFn2yNqp9sjfWfbI3/n2yN/59sjf+fbI3/n2yN/59s
+        jf+fbI3/n2yN/59sjf+fbI3/n2yN/59sjf+fbI3MnmyMcaJ0iwsAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKBr
+        jD6fbI3Cn2yN/59sjf+fbI3/n2yN/59sjf+fbI3/n2yN/59sjf+fbI3/n2yN/59sjf+fbI3/n2yN/59s
+        jf+fbI3/n2yN/59sjf+fbI3poG2Oc6pxjgkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAonSLC59rjZ2fbI3/n2yN/59sjf+fbI3/n2yN/6F0
+        i/+kjIP/qKB+/6uvev+suHf/rb12/6y6d/+stHn/qKZ9/6WUgf+ie4n/n2yN/59sjf+fbI3/n2yN/59s
+        jf+fbI3XnmuPMgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAnW2NL59sjdefbI3/n2yN/59sjf+fbI3/o4eF/6uvef+uyXL/r8py/6/Kcv+vynL/r8py/6/K
+        cv+vynL/r8py/6/Kcv+vynL/r8py/6y7dv+mloD/oHGL/59sjf+fbI3/n2yN/59sjfmgbY5zAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAnmuLN59sjfCfbI3/n2yN/59s
+        jf+jf4f/q7V3/6/Kcv+vynL/r8py/6/Kcv+vynL/r8py/6/Kcv+vynL/r8py/6/Kcv+vynL/r8py/6/K
+        cv+vynL/r8py/67Ddf+mk4H/n22M/59sjf+fbI3/n2yN/6BsjYsAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAn22NOJ9sjfCfbI3/n2yN/59tjP+om4D/r8ly/6/Kcv+vynL/r8py/6/K
+        cv+vynL/r8py/6/Kcv+vynL/r8py/6/Kcv+vynL/r8py/6/Kcv+vynL/r8py/6/Kcv+vynL/r8py/6uz
+        eP+hdov/n2yN/59sjf+fbI3/n22NjwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAnmqNHZ9s
+        je2fbI3/n2yN/6Bwi/+qrnr/r8py/6/Kcv+vynL/r8py/6/Kcv+vynL/r8py/6/Kcv+vynL/r8py/6/K
+        cv+vynL/r8py/6/Kcv+vynL/r8py/6/Kcv+vynL/r8py/6/Kcv+vynL/rcJ1/6J+iP+fbI3/n2yN/59s
+        jf+ebY5sAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAqlWqA59sjcKfbI3/n2yN/59vjf+rs3n/r8py/6/K
+        cv+vynL/r8py/6/Kcv+vynL/r8py/6/Kcv+vynL/r8py/6/Kcv+vynL/r8py/6/Kcv+vynL/r8py/6/K
+        cv+vynL/r8py/6/Kcv+vynL/r8py/6/Kcv+uxXT/on6I/59sjf+fbI3/n2yN+KBujDMAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAJ9sjX2fbI3/n2yN/59sjf+qqXz/r8py/6/Kcv+vynL/r8py/6/Kcv+vynL/r8py/6/K
+        cv+vynL/r8py/6/Kcv+1z4T/yd+//77Wnv+vynL/r8py/6/Kcv+vynL/r8py/6/Kcv+vynL/r8py/6/K
+        cv+vynL/r8py/63Cdf+hdov/n2yN/59sjf+fbI7akm2SBwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAKJoixafbI30n2yN/59s
+        jf+lkoH/r8py/6/Kcv+vynL/r8py/6/Kcv+vynL/r8py/6/Kcv+vynL/r8py/6/Kcv+vynL/0+bZ/97v
+        +v/d7/n/tc+E/6/Kcv+vynL/r8py/6/Kcv+vynL/r8py/6/Kcv+vynL/r8py/6/Kcv+vynL/q7N4/59t
+        jP+fbI3/n2yN/6BtjW4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACfbY2Nn2yN/59sjf+gdYv/rsRz/6/Kcv+vynL/r8py/6/K
+        cv+vynL/r8py/6/Kcv+vynL/r8py/6/Kcv+vynL/r8py/9jq6f/e7/r/3u/6/7vTlP+vynL/r8py/6/K
+        cv+vynL/r8py/6/Kcv+vynL/r8py/6/Kcv+vynL/r8py/6/Kcv+mk4H/n2yN/59sjf+fbI3qnXaJDQAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACdbI40n2uNcJ9s
+        joefbY2In22NiJ9tjYifbY2In22NiJ9tjYifbY2In22NiJ9tjYifbY2In22NiJ9tjYifbY2In22NiJ9t
+        jYifbY2In22NiJ9tjYifbY2In22NiJ9tjYifbY2In22NiJ9tjYifbY2In22NiJ9tjYifbY2In22NiJ9t
+        jYifbY2In22NiJ9tjYifbY2In22NiJ9tjYifbY2In22NiJ9tjYifbY2In22NiJ9tjYifbY2In22NiJ9t
+        jYifbY2In2yN9p9sjf+fbI3/qaZ9/6/Kcv+vynL/r8py/6/Kcv+vynL/r8py/6/Kcv+vynL/r8py/6/K
+        cv+vynL/r8py/6/Kcv/Y6un/3u/6/97v+v+705T/r8py/6/Kcv+vynL/r8py/6/Kcv+vynL/r8py/6/K
+        cv+vynL/r8py/6/Kcv+vynL/rsN1/6Bxi/+fbI3/n2yN/6BtjW4AAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAKVphxGfbI60n2yN/59sjf+fbI3/n2yN/59sjf+fbI3/n2yN/59s
+        jf+fbI3/n2yN/59sjf+fbI3/n2yN/59sjf+fbI3/n2yN/59sjf+fbI3/n2yN/59sjf+fbI3/n2yN/59s
+        jf+fbI3/n2yN/59sjf+fbI3/n2yN/59sjf+fbI3/n2yN/59sjf+fbI3/n2yN/59sjf+fbI3/n2yN/59s
+        jf+fbI3/n2yN/59sjf+fbI3/n2yN/59sjf+fbI3/n2yN/59sjf+fbI3/n2yN/59sjf+fbI3/oXaK/6/I
+        cv+vynL/r8py/6/Kcv+vynL/r8py/6/Kcv+vynL/r8py/6/Kcv+vynL/r8py/6/Kcv+vynL/2Orp/97v
+        +v/e7/r/u9OU/6/Kcv+vynL/r8py/6/Kcv+vynL/r8py/6/Kcv+vynL/r8py/6/Kcv+vynL/r8py/6/K
+        cv+mloD/n2yN/59sjf+ebIzGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP8A
+        /wGhbo3Bn2yN/59sjf+fbI3/n2yN/59sjf+fbI3/n2yN/59sjf+fbI3/n2yN/59sjf+fbI3/n2yN/59s
+        jf+fbI3/n2yN/59sjf+fbI3/n2yN/59sjf+fbI3/n2yN/59sjf+fbI3/n2yN/59sjf+fbI3/n2yN/59s
+        jf+fbI3/n2yN/59sjf+fbI3/n2yN/59sjf+fbI3/n2yN/59sjf+fbI3/n2yN/59sjf+fbI3/n2yN/59s
+        jf+fbI3/n2yN/59sjf+fbI3/n2yN/59sjf+fbI3/n2yN/6eZgP+vynL/r8py/6/Kcv+vynL/r8py/6/K
+        cv+vynL/r8py/6/Kcv+vynL/r8py/6/Kcv+vynL/r8py/9jq6f/e7/r/3u/6/7vTlP+vynL/r8py/6/K
+        cv+vynL/r8py/6/Kcv+vynL/r8py/6/Kcv+vynL/r8py/6/Kcv+vynL/rLt2/59sjf+fbI3/n2yN/pxr
+        jB8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAChbIxJn2yN/59sjf+fbI3/sH+H/7+Q
+        gf+/kIH/v5CB/7+Qgf+/kIH/v5CB/7+Qgf+/kIH/v5CB/7+Qgf+/kIH/v5CB/7+Qgf+/kIH/v5CB/7+Q
+        gf+/kIH/v5CB/7+Qgf+/kIH/v5CB/7+Qgf+/kIH/v5CB/7+Qgf+/kIH/v5CB/7+Qgf+/kIH/v5CB/7+Q
+        gf+/kIH/v5CB/7+Qgf+/kIH/v5CB/7+Qgf+/kIH/v5CB/7+Qgf+/kIH/v5CB/7+Qgf+/kIH/v5CB/72N
+        gv+fbI3/n2yN/59sjf+suHf/r8py/6/Kcv+vynL/r8py/6/Kcv+vynL/r8py/6/Kcv+vynL/r8py/6/K
+        cv+vynL/r8py/6/Kcv/Y6un/3u/6/97v+v+705T/r8py/6/Kcv+vynL/r8py/6/Kcv+vynL/r8py/6/K
+        cv+vynL/r8py/6/Kcv+vynL/r8py/6/Kcv+ifIj/n2yN/59sjf+ga41rAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAn22NjZ9sjf+fbI3/toaE//DFcP/wxm//8MZv//DGb//wxm//8MZv//DG
+        b//wxm//8MZv//DGb//wxm//8MZv//DGb//wxm//8MZv//DGb//wxm//8MZv//DGb//wxm//8MZv//DG
+        b//wxm//8MZv//DGb//wxm//8MZv//DGb//wxm//8MZv//DGb//wxm//8MZv//DGb//wxm//8MZv//DG
+        b//wxm//8MZv//DGb//wxm//8MZv//DGb//wxm//8MZv//DGb//fs3X/n2yN/59sjf+gcov/r8ly/6/K
+        cv+vynL/r8py/6/Kcv+vynL/r8py/6/Kcv+vynL/r8py/6/Kcv+vynL/r8py/6/Kcv+vynL/2Orp/97v
+        +v/e7/r/u9OU/6/Kcv+vynL/r8py/6/Kcv+vynL/r8py/6/Kcv+vynL/r8py/6/Kcv+vynL/r8py/6/K
+        cv+vynL/pZSB/59sjf+fbI3/n2uNmAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJ9r
+        jZ+fbI3/n2yN/8iZfv/wxm//8MZv//DGb//wxm//8MZv//DGb//wxm//8MZv//DGb//wxm//8MZv//DG
+        b//wxm//8MZv//DGb//wxm//8MZv//DGb//wxm//8MZv//DGb//wxm//8MZv//DGb//wxm//8MZv//DG
+        b//wxm//8MZv//DGb//wxm//8MZv//DGb//wxm//8MZv//DGb//wxm//8MZv//DGb//wxm//8MZv//DG
+        b//wxm//8MZv//DGb//wxm//0qR7/59sjf+fbI3/o4OG/6/Kcv+vynL/r8py/6/Kcv+vynL/r8py/6/K
+        cv+vynL/r8py/6/Kcv+vynL/r8py/6/Kcv+vynL/r8py/9jq6f/e7/r/3u/6/7vTlP+vynL/r8py/6/K
+        cv+vynL/r8py/6/Kcv+vynL/r8py/6/Kcv+vynL/r8py/6/Kcv+vynL/r8py/6imff+fbI3/n2yN/6Bt
+        jcMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACfa42fn2yN/59sjf/ImX7/8MZv//DG
+        b//wxm//8MZv//DGb//wxm//8MZv//DGb//wxm//8MZv//DGb//wxm//8MZv//DGb//wxm//8MZv//DG
+        b//wxm//8MZv//DGb//wxm//8MZv//DGb//wxm//8MZv//DGb//wxm//8MZv//DGb//wxm//8MZv//DG
+        b//wxm//8MZv//DGb//wxm//8MZv//DGb//wxm//8MZv//DGb//wxm//8MZv//DGb//wxm//8MZv/8aY
+        f/+fbI3/n2yN/6WRgv+vynL/r8py/6/Kcv+vynL/r8py/6/Kcv+xzHr/u9OU/7vUl/+71Jf/u9SX/7vU
+        l/+71Jf/u9SX/7vUl//a6+3/3u/6/97v+v/E27D/u9SX/7vUl/+71Jf/u9SX/7vUl/+71Jf/u9SX/7XP
+        hf+vynL/r8py/6/Kcv+vynL/r8py/6/Kcv+rs3j/n2yN/59sjf+fbI3pAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAn2uNn59sjf+fbI3/yZmC//DGb//wxm//8MZv//DGb//wxm//8MZv//DG
+        b//wxm//8MZv//DGb//wxm//8MZv//DGb//wxm//8MZv//DGb//wxm//8MZv//DGb//wxm//8MZv//DG
+        b//wxm//8MZv//DGb//wxm//8MZv//DGb//wxm//8MZv//DGb//wxm//8MZv//DGb//wxm//8MZv//DG
+        b//wxm//8MZv//DGb//wxm//8MZv//DGb//wxm//8MZv//DGb//DlYD/n2yN/59sjf+ml4H/r8py/6/K
+        cv+vynL/r8py/6/Kcv+yzHr/2evs/97v+v/e7/r/3u/6/97v+v/e7/r/3u/6/97v+v/e7/r/3u/6/97v
+        +v/e7/r/3u/6/97v+v/e7/r/3u/6/97v+v/e7/r/3u/6/97v+v/d7/n/vtae/6/Kcv+vynL/r8py/6/K
+        cv+vynL/rLp3/59sjf+fbI3/n2yN8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJ9r
+        jZ+fbI3/n2yN/8ubif/zyHf/8MZv//DGb//wxm//8MZv//DGb//wxm//8MZv//DGb//wxm//8MZv//DG
+        b//wxm//8MZv//DGb//wxm//8MZv//DGb//wxm//8MZv//DGb//wxm//8MZv//DGb//wxm//8MZv//DG
+        b//wxm//8MZv//DGb//wxm//8MZv//DGb//wxm//8MZv//DGb//wxm//8MZv//DGb//wxm//8MZv//DG
+        b//wxm//8MZv//DGb//wxm//wpKA/59sjf+fbI3/p5l//6/Kcv+vynL/r8py/6/Kcv+vynL/uNGM/97v
+        +v/e7/r/3u/6/97v+v/e7/r/3u/6/97v+v/e7/r/3u/6/97v+v/e7/r/3u/6/97v+v/e7/r/3u/6/97v
+        +v/e7/r/3u/6/97v+v/e7/r/3u/6/8nfv/+vynL/r8py/6/Kcv+vynL/r8py/6y8dv+fbI3/n2yN/59r
+        jfIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACfa42fn2yN/59sjf/Mm4n/+MuF//bK
+        f//zyHf/8sd0//HHcv/xx3L/8cdy//HHcv/xx3L/8cdy//HHcv/xx3L/8cdy//HHcv/xx3L/8cdy//HH
+        cv/xx3L/8cdy//HHcv/xx3L/8cdy//HHcv/xx3L/8cdy//HHcv/xx3L/8cdy//HHcv/xx3L/8cdy//HH
+        cv/xx3L/8cdy//HHcv/xx3L/8cdy//HHcv/xx3L/8cdy//HHcv/xx3L/8cdy//HHcv/xx3L/8cdy/8SU
+        gv+fbI3/n2yN/6eWgv+vynL/r8py/6/Kcv+vynL/r8py/6/Kc//L4MH/2Orn/9fq6P/X6uj/1+ro/9fq
+        6P/X6uj/1+ro/9fq6P/e7vj/3u/6/97v+v/Z7Oz/1+ro/9fq6P/X6uj/1+ro/9fq6P/X6uj/1+ro/9Pm
+        2f+1z4T/r8py/6/Kcv+vynL/r8py/6/Kcv+suHj/n2yN/59sjf+gbI3zAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAn2uNn59sjf+fbI3/zJuJ//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/QoIn/n2yN/59sjf+ljIT/r8py/6/K
+        cv+vynL/r8py/6/Kcv+vynL/r8py/6/Kcv+vynL/r8py/6/Kcv+vynL/r8py/6/Kcv+vynL/2Orp/97v
+        +v/e7/r/u9OU/6/Kcv+vynL/r8py/6/Kcv+vynL/r8py/6/Kcv+vynL/r8py/6/Kcv+vynL/r8py/6/K
+        cv+vynL/q696/59sjf+fbI3/nmyN1gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJ9r
+        jZ+fbI3/n2yN/8ybif/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/2quI/59sjf+fbI3/on+H/6/Kcv+vynL/r8py/6/Kcv+vynL/r8py/6/K
+        cv+vynL/r8py/6/Kcv+vynL/r8py/6/Kcv+vynL/r8py/9jq6f/e7/r/3u/6/7vTlP+vynL/r8py/6/K
+        cv+vynL/r8py/6/Kcv+vynL/r8py/6/Kcv+vynL/r8py/6/Kcv+vynL/r8py/6ihff+fbI3/n2yN/59t
+        jbAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACfa42fn2yN/59sjf/Mm4n/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF/+u9
+        hv+fbI3/n2yN/59ujP+uxXT/r8py/6/Kcv+vynL/r8py/6/Kcv+vynL/r8py/6/Kcv+vynL/r8py/6/K
+        cv+vynL/r8py/6/Kcv/Y6un/3u/6/97v+v+705T/r8py/6/Kcv+vynL/r8py/6/Kcv+vynL/r8py/6/K
+        cv+vynL/r8py/6/Kcv+vynL/r8py/6/Kcv+kjIP/n2yN/59sjf+fa4yKAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAn2uNn59sjf+fbI3/zJuJ//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/qXaN/59sjf+fbI3/qq57/6/K
+        cv+vynL/r8py/6/Kcv+vynL/r8py/6/Kcv+vynL/r8py/6/Kcv+vynL/r8py/6/Kcv+vynL/2Orp/97v
+        +v/e7/r/u9OU/6/Kcv+vynL/r8py/6/Kcv+vynL/r8py/6/Kcv+vynL/r8py/6/Kcv+vynL/r8py/6/K
+        cv+uyXL/oXSL/59sjf+fbI3/n2qOSAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJ9r
+        jZ+fbI3/n2yN/8ybif/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF/8CQiv+fbI3/n2yN/6WMhP+vynL/r8py/6/Kcv+vynL/r8py/6/K
+        cv+vynL/r8py/6/Kcv+vynL/r8py/6/Kcv+vynL/r8py/9jq6f/e7/r/3u/6/7vTlP+vynL/r8py/6/K
+        cv+vynL/r8py/6/Kcv+vynL/r8py/6/Kcv+vynL/r8py/6/Kcv+vynL/q695/59sjf+fbI3/n2yN8ZJt
+        kgcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACfa42fn2yN/59sjf/Mm4n/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/is4f/n2yN/59sjf+gb4z/rcB0/6/Kcv+vynL/r8py/6/Kcv+vynL/r8py/6/Kcv+vynL/r8py/6/K
+        cv+vynL/r8py/6/Kcv/Y6un/3u/6/97v+v+705T/r8py/6/Kcv+vynL/r8py/6/Kcv+vynL/r8py/6/K
+        cv+vynL/r8py/6/Kcv+vynL/r8py/6OHhf+fbI3/n2yN/59sjagAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAn2uNn59sjf+fbI3/zJuJ//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MqF/616i/+fbI3/n2yN/6aU
+        gf+vynL/r8py/6/Kcv+vynL/r8py/6/Kcv+vynL/r8py/6/Kcv+vynL/r8py/6/Kcv+vynL/2Orp/97v
+        +v/e7/r/u9OU/6/Kcv+vynL/r8py/6/Kcv+vynL/r8py/6/Kcv+vynL/r8py/6/Kcv+vynL/r8py/6u1
+        d/+fbI3/n2yN/59sjf+ha485AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJ9r
+        jZ+fbI3/n2yN/8ybif/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/VpYj/n2yN/59sjf+gbY3/rLl3/6/Kcv+vynL/r8py/6/K
+        cv+vynL/r8py/6/Kcv+vynL/r8py/6/Kcv+vynL/r8py/9fq6P/e7/r/3u/6/7rTk/+vynL/r8py/6/K
+        cv+vynL/r8py/6/Kcv+vynL/r8py/6/Kcv+vynL/r8py/6/Jc/+jf4f/n2yN/59sjf+gbIy7AAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACfa42fn2yN/59sjf/Mm4n/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/98qF/7B+i/+fbI3/n2yN/6J9iP+vx3P/r8py/6/Kcv+vynL/r8py/6/Kcv+vynL/r8py/6/K
+        cv+vynL/r8py/6/Kcv/L4MH/3u/6/9nr7P+yzHr/r8py/6/Kcv+vynL/r8py/6/Kcv+vynL/r8py/6/K
+        cv+vynL/r8py/6/Kcv+om4D/n2yN/59sjf+fbI3+oGyPOwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAn2uNn59sjf+fbI3/zJuJ//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/jtIf/oG2N/59s
+        jf+fbI3/pY2D/6/Jc/+vynL/r8py/6/Kcv+vynL/r8py/6/Kcv+vynL/r8py/6/Kcv+vynL/r8pz/7jR
+        jP+yzHr/r8py/6/Kcv+vynL/r8py/6/Kcv+vynL/r8py/6/Kcv+vynL/r8py/6/Kcv+qrnr/n22M/59s
+        jf+fbI3/n2yOkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJ9r
+        jZ+fbI3/n2yN/8ybif/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF/8ycif+fbI3/n2yN/59sjf+llIL/r8lz/6/K
+        cv+vynL/r8py/6/Kcv+vynL/r8py/6/Kcv+vynL/r8py/6/Kcv+vynL/r8py/6/Kcv+vynL/r8py/6/K
+        cv+vynL/r8py/6/Kcv+vynL/r8py/6/Kcv+rs3n/oHCL/59sjf+fbI3/n2yN1apxjgkAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACfa42fn2yN/59sjf/Mm4n/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/3yoX/uYiL/59sjf+fbI3/n2yN/6WNg/+vx3P/r8py/6/Kcv+vynL/r8py/6/K
+        cv+vynL/r8py/6/Kcv+vynL/r8py/6/Kcv+vynL/r8py/6/Kcv+vynL/r8py/6/Kcv+vynL/r8py/6/K
+        cv+pqnv/n2+N/59sjf+fbI3/n2yN6qJqjykAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAn2uNn59sjf+fbI3/zJuJ//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//TH
+        hv+3hYr/n2yN/59sjf+fbI3/on2I/6y5d/+vynL/r8py/6/Kcv+vynL/r8py/6/Kcv+vynL/r8py/6/K
+        cv+vynL/r8py/6/Kcv+vynL/r8py/6/Kcv+vynL/r8py/67Gc/+mk4L/n2yN/59sjf+fbI3/n2yN7p9q
+        jzAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJ9r
+        jZ+fbI3/n2yN/8ybif/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/9ciF/7mIi/+fbI3/n2yN/59s
+        jf+gbY3/ppSB/63AdP+vynL/r8py/6/Kcv+vynL/r8py/6/Kcv+vynL/r8py/6/Kcv+vynL/r8py/6/K
+        cv+vynL/r8hy/6mmff+hdor/n2yN/59sjf+fbI3/n2yN5Z9qjDUAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACfa42fn2yN/59sjf/Mm4n/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/3yoX/zJyJ/6Btjf+fbI3/n2yN/59sjf+fbo3/pYyE/6qu
+        e/+uxXT/r8py/6/Kcv+vynL/r8py/6/Kcv+vynL/r8py/6/Jcv+suHf/p5mA/6F2iv+fbI3/n2yN/59s
+        jf+fbI3/n22NvJtvkBcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAn2uNn59sjf+fbI3/zJuJ//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/jtIf/r3yM/59sjf+fbI3/n2yN/59sjf+fbI3/oG2N/6J+iP+ljIT/ppaB/6eY
+        gP+nmID/pZCC/6ODhv+gcov/n2yN/59sjf+fbI3/n2yN/59sjf+fbI3/n2yNuapVqgMAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJ9r
+        jZ+fbI3/n2yN/8ybif/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//fK
+        hf/XqIj/q3mM/59sjf+fbI3/n2yN/59sjf+fbI3/n2yN/59sjf+fbI3/n2yN/59sjf+fbI3/n2yN/59s
+        jf+fbI3/n2yN/59sjf+fbI3/n2yN/59rjZ8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACfa42fn2yN/59sjf/Mm4n/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//fKhf/is4f/v4+K/6d0
+        jP+fbI3/n2yN/59sjf+fbI3/n2yN/59sjf+fbI3/n2yN/59sjf+gbY3/toWL/9WliP/FlYr/n2yN/59s
+        jf+fa42fAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAn2uNn59sjf+fbI3/zJuJ//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jOjP/63bD/++C2//vgtv/74Lb/++C2//vgtv/74Lb/++C2//vg
+        tv/74Lb/++C2//vgtv/74Lb/++C2//vgtv/74Lb/++C2//vgtv/74Lb/++C2//vgtv/74Lb/++C2//vg
+        tv/74Lb/++C2//vgtv/74Lb/++C2//vgtv/74Lb/++C2//vgtv/74Lb/++C2//vgtv/74Lb/++C2//vg
+        tv/74Lb/++C2//raqf/4y4b/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/672G/9ipiP/Pn4j/x5aK/8KS
+        iv/GlYr/ypmK/9SliP/ltof/9MeF//jLhf/4y4X/zJuJ/59sjf+fbI3/n2uNnwAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJ9r
+        jZ+fbI3/n2yN/8ybif/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/99OT/////////////////////////////////////////////////////////////////////////
+        ////////////////////////////////////////////////////////////////////////////////
+        /////////////////////////////////////////////////////////////////////////ObF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF/8ybif+fbI3/n2yN/59rjZ8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACfa42fn2yN/59sjf/Mm4n/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X//vv1////////////////////
+        ////////////////////////////////////////////////////////////////////////////////
+        ////////////////////////////////////////////////////////////////////////////////
+        //////////////////////////////////////////////3u1v/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/Mm4n/n2yN/59s
+        jf+fa42fAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAn2uNn59sjf+fbI3/zJuJ//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//raqP/98Nz//fHe//3x3v/98d7//fHe//3x3v/98d7//fHe//3x
+        3v/98d7//fHe//3x3v/98d7//fHe//3x3v/98d7//fHe//3x3v/98d7//fHe//3x3v/98d7//fHe//3x
+        3v/98d7//fHe//3x3v/98d7//fHe//3x3v/98d7//fHe//3x3v/98d7//fHe//3x3v/98d7//fHe//3x
+        3v/98d7//fHe//3u1//505f/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/zJuJ/59sjf+fbI3/n2uNnwAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJ9r
+        jZ+fbI3/n2yN/8ybif/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF/8ybif+fbI3/n2yN/59rjZ8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACfa42fn2yN/59sjf/Mm4n/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/Mm4n/n2yN/59s
+        jf+fa42fAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAn2uNn59sjf+fbI3/zJuJ//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/zJuJ/59sjf+fbI3/n2uNnwAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJ9r
+        jZ+fbI3/n2yN/8ybif/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF/8ybif+fbI3/n2yN/59rjZ8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACfa42fn2yN/59sjf/Mm4n/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/Mm4n/n2yN/59s
+        jf+fa42fAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAn2uNn59sjf+fbI3/zJuJ//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/zJuJ/59sjf+fbI3/n2uNnwAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJ9r
+        jZ+fbI3/n2yN/8ybif/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/75MH///37////////////////////////////////////////////////////////////////////
+        ////////////////////////////////////////////////////////////////////////////////
+        ///////////////////////////////////+9ur/+dGT//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF/8ybif+fbI3/n2yN/59rjZ8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACfa42fn2yN/59sjf/Mm4n/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X///z5////////////////////
+        ////////////////////////////////////////////////////////////////////////////////
+        ////////////////////////////////////////////////////////////////////////////////
+        //////////////vivP/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/Mm4n/n2yN/59s
+        jf+fa42fAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAn2uNn59sjf+fbI3/zJuJ//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//zr0P//////////////////////////////////////////////
+        ////////////////////////////////////////////////////////////////////////////////
+        ///////////////////////////////////////////////////////////////89//51Jr/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/zJuJ/59sjf+fbI3/n2uNnwAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJ9r
+        jZ+fbI3/n2yN/8ybif/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+dCR//nSlf/50pX/+dKV//nSlf/50pX/+dKV//nSlf/50pX/+dKV//nSlf/50pX/+dKV//nS
+        lf/50pX/+dKV//nSlf/50pX/+dKV//nSlf/50pX/+dKV//nSlf/50pX/+dKV//nSlf/50pX/+dKV//nS
+        lf/50pX/+dKV//nSlf/50pX/+dKV//nSlf/4zYn/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF/8ybif+fbI3/n2yN/59rjZ8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACfa42fn2yN/59sjf/Mm4n/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/Mm4n/n2yN/59s
+        jf+fa42fAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAn2uNn59sjf+fbI3/zJuJ//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/zJuJ/59sjf+fbI3/n2uNnwAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJ9r
+        jZ+fbI3/n2yN/8ybif/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF/8ybif+fbI3/n2yN/59rjZ8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACfa42fn2yN/59sjf/Mm4n/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/Mm4n/n2yN/59s
+        jf+fa42fAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAn2uNn59sjf+fbI3/zJuJ//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/zJuJ/59sjf+fbI3/n2uNnwAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJ9r
+        jZ+fbI3/n2yN/8ybif/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/51Z3//OnM//zqzv/86s7//OrO//zqzv/86s7//OrO//zqzv/86s7//OrO//zqzv/86s7//OrO//zq
+        zv/86s7//OrO//zqzv/86s7//OrO//zqzv/86s7//OrO//zqzv/86s7//OrO//zqzv/86s7//OrO//zq
+        zv/63K3/+MuF//jLhf/4y4X/+M2L//zlw//86s7//OrO//zqzv/86s7//OrO//zqzv/86s7//OrO//zq
+        zv/86Mr/+dKV//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF/8ybif+fbI3/n2yN/59rjZ8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACfa42fn2yN/59sjf/Mm4n/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X//vnx////////////////////
+        ////////////////////////////////////////////////////////////////////////////////
+        ///////////////////////////////////////////////////////////+//nSlv/4y4X/+MuF//zm
+        w/////////////////////////////////////////////////////////////3y4f/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/Mm4n/n2yN/59s
+        jf+fa42fAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAn2uNn59sjf+fbI3/zJuJ//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//737P//////////////////////////////////////////////
+        ////////////////////////////////////////////////////////////////////////////////
+        ///////////////////////////////+/P/50ZL/+MuF//jLhf/7477/////////////////////////
+        ///////////////////////////////////98Nz/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/zJuJ/59sjf+fbI3/n2uNnwAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJ9r
+        jZ+fbI3/n2yN/8ybif/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/50pT/++K8//vjvv/7477/++O+//vjvv/7477/++O+//vjvv/7477/++O+//vjvv/7477/++O+//vj
+        vv/7477/++O+//vjvv/7477/++O+//vjvv/7477/++O+//vjvv/7477/++O+//vjvv/7477/++O+//vj
+        vv/616D/+MuF//jLhf/4y4X/+MyH//vftP/7477/++O+//vjvv/7477/++O+//vjvv/7477/++O+//vj
+        vv/74rv/+c+P//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF/8ybif+fbI3/n2yN/59rjZ8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACfa42fn2yN/59sjf/Mm4n/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/Mm4n/n2yN/59s
+        jf+fa42fAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAn2uNn59sjf+fbI3/zJuJ//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/zJuJ/59sjf+fbI3/n2uNnwAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJ9r
+        jZ+fbI3/n2yN/8ybif/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF/8ybif+fbI3/n2yN/59rjZ8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACfa42fn2yN/59sjf/Mm4n/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/Mm4n/n2yN/59s
+        jf+fa42fAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAn2uNn59sjf+fbI3/zJuJ//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/zJuJ/59sjf+fbI3/n2uNnwAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJ9r
+        jZ+fbI3/n2yN/8ybif/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF/8ybif+fbI3/n2yN/59rjZ8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACfa42fn2yN/59sjf/Mm4n/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/Mm4n/n2yN/59s
+        jf+fa42fAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAn2uNn59sjf+fbI3/zJuJ//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/zJuJ/59sjf+fbI3/n2uNnwAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJ9r
+        jZ+fbI3/n2yN/8ybif/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF/8ybif+fbI3/n2yN/59rjZ8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACfa42fn2yN/59sjf/Mm4n/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/Mm4n/n2yN/59s
+        jf+fa42fAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAn2uNn59sjf+fbI3/zJuJ//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/zJuJ/59sjf+fbI3/n2uNnwAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJ9r
+        jZ+fbI3/n2yN/8ybif/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF/8ybif+fbI3/n2yN/59rjZ8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACfa42fn2yN/59sjf/Mm4n/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/Mm4n/n2yN/59s
+        jf+fa42fAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAn2uNn59sjf+fbI3/zJuJ//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/zJuJ/59sjf+fbI3/n2uNnwAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJ9r
+        jZ+fbI3/n2yN/8ybif/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jLhf/4y4X/+MuF//jL
+        hf/4y4X/+MuF/8ybif+fbI3/n2yN/59rjZ8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACfa42fn2yN/59sjf/Mm4n/+MuF//jL
+        hf/4y4X/+MuF/+Kzh/+wfoz/wZGK//fKhf/4y4X/+MuF//jLhf/4y4X/1qeI/699i//Nnon/+MuF//jL
+        hf/4y4X/+MuF//jLhf/JmYr/r36M/9qsh//4y4X/+MuF//jLhf/4y4X/9ciF/7+Niv+ygIz/5biH//jL
+        hf/4y4X/+MuF//jLhf/vwYb/toWL/7eFiv/vwYX/+MuF//jLhf/4y4X/+MuF/+W3h/+yf4v/v46K//XI
+        hf/4y4X/+MuF//jLhf/4y4X/2quI/69+jP/KmYr/+MuF//jLhf/4y4X/+MuF//jLhf/Nnoj/r32L/9eo
+        iP/4y4X/+MuF//jLhf/4y4X/9sqF/8GQiv+xf4v/47SH//jLhf/4y4X/+MuF//jLhf/Mm4n/n2yN/59s
+        jf+fa42fAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAn2uNn59sjf+fbI3/zJuJ//jLhf/4y4X/+MuF//jLhf+0g4v/n2yN/59s
+        jf/hsof/+MuF//jLhf/4y4X/+MuF/6RxjP+fbI3/n22N//LEhv/4y4X/+MuF//jLhf/svob/n2yN/59s
+        jf+pd4z/+MuF//jLhf/4y4X/+MuF/9usiP+fbI3/n2yN/7qIiv/4y4X/+MuF//jLhf/4y4X/y5qJ/59s
+        jf+fbI3/y5uJ//jLhf/4y4X/+MuF//jLhf+6iIv/n2yN/59sjf/brYf/+MuF//jLhf/4y4X/+MuF/6l2
+        jf+fbI3/n2yN/+y+hv/4y4X/+MuF//jLhf/xw4b/n2yN/59sjf+kcI3/+MuF//jLhf/4y4X/+MuF/+Gy
+        h/+fbI3/n2yN/7SDi//4y4X/+MuF//jLhf/4y4X/zJuJ/59sjf+fbI3/n2uNnwAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJ9r
+        jZ+fbI3/n2yN/8ybif/4y4X/+MuF//jLhf/4y4X/sH6L/59sjf+fbI3/3K2H//jLhf/4y4X/+MuF//jL
+        hf+fbI3/n2yN/59sjf/twIb/+MuF//jLhf/4y4X/57mH/59sjf+fbI3/pXKM//jLhf/4y4X/+MuF//jL
+        hf/XqIj/n2yN/59sjf+1hIv/+MuF//jLhf/4y4X/+MuF/8aWif+fbI3/n2yN/8aWif/4y4X/+MuF//jL
+        hf/4y4X/tYSL/59sjf+fbI3/16iI//jLhf/4y4X/+MuF//jLhf+lcoz/n2yN/59sjf/nuYf/+MuF//jL
+        hf/4y4X/7cCG/59sjf+fbI3/n2yN//jLhf/4y4X/+MuF//jLhf/crYf/n2yN/59sjf+wfov/+MuF//jL
+        hf/4y4X/+MuF/8ybif+fbI3/n2yN/59rjZ8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACfa42fn2yN/59sjf/Mm4n/+tCN//za
+        nP/93aL//dyh/7GBkP+fbI3/n2yN/+C5mv/93KH//dyh//3cof/93KH/n2yN/59sjf+fbI3/8c6f//3c
+        of/93KH//dyh/+vHnv+fbI3/n2yN/6Vzjv/93KH//dyh//3cof/93KH/2rKZ/59sjf+fbI3/toiS//3c
+        of/93KH//dyh//3cof/Inpb/n2yN/59sjf/Inpb//dyh//3cof/93KH//dyh/7aIkv+fbI3/n2yN/9qy
+        mf/93KH//dyh//3cof/93KH/pXOO/59sjf+fbI3/68ee//3cof/93KH//dyh//HOn/+fbI3/n2yN/59s
+        jf/93KH//dyh//3cof/93KH/4Lma/59sjf+fbI3/sYGQ//3cof/93aL//Nmb//nQjf/Mm4n/n2yN/59s
+        jf+fa42fAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAn2uNn59sjf+fbI3/zqKT///jrP//46z//+Os///jrP+xg5P/n2yN/59s
+        jf/hvqP//+Os///jrP//46z//+Os/59tjf+fbI3/n2yN//PUqP//46z//+Os///jrP/tzab/n2yN/59s
+        jf+ldI///+Os///jrP//46z//+Os/9u2of+fbI3/n2yN/7eKlf//46z//+Os///jrP//46z/yaGb/59s
+        jf+fbI3/yaGb///jrP//46z//+Os///jrP+3ipX/n2yN/59sjf/btqH//+Os///jrP//46z//+Os/6V0
+        j/+fbI3/n2yN/+3Npv//46z//+Os///jrP/z1Kj/n2yN/59sjf+fbY3//+Os///jrP//46z//+Os/+G+
+        o/+fbI3/n2yN/7GDk///46z//+Os///jrP//46z/zqKT/59sjf+fbI3/n2uNnwAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJ9r
+        jZ+fbI3/n2yN/8+nnf//46z//+Os///jrP//46z/xpyZ/59sjf+icI7/89So///jrP//46z//+Os///j
+        rP+0hpT/n2yN/6p6kf/94av//+Os///jrP//46z/+t2q/6d2j/+fbI3/uo6W///jrP//46z//+Os///j
+        rP/uz6b/oW6O/59sjf/MpJz//+Os///jrP//46z//+Os/966ov+fbI3/n2yN/967of//46z//+Os///j
+        rP//46z/zKSb/59sjf+hbo7/78+n///jrP//46z//+Os///jrP+6jZb/n2yN/6d2j//63av//+Os///j
+        rP//46z//eGs/6p5kf+fbI3/tIeT///jrP//46z//+Os///jrP/z1aj/onCO/59sjf/HnZr//+Os///j
+        rP//46z//+Os/8+nnf+fbI3/n2yN/59rjZ8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACfa42fn2yN/59sjf/Pp53//+Os///j
+        rP//46z//+Os//3hrP/iv6L/8NGo///jrP//46z//+Os///jrP//46z/+dyq/+C9ov/22Kn//+Os///j
+        rP//46z//+Os///jrP/01qj/4L2i//veq///46z//+Os///jrP//46z//+Os/+7Ppv/jwKL//uKs///j
+        rP//46z//+Os///jrP//46z/6Mel/+jHpf//46z//+Os///jrP//46z//+Os//7hrP/jwKL/7s+m///j
+        rP//46z//+Os///jrP//46z/+96r/+C9ov/01qj//+Os///jrP//46z//+Os///jrP/22Kn/4L2i//nc
+        qv//46z//+Os///jrP//46z//+Os//DRqP/iv6L//eGs///jrP//46z//+Os///jrP/Pp53/n2yN/59s
+        jf+fa42fAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAn2uNn59sjf+fbI3/z6ed///jrP//46z//+Os///jrP//46z//+Os///j
+        rP//46z//+Os///jrP//46z//+Os///jrP//46z//+Os///jrP//46z//+Os///jrP//46z//+Os///j
+        rP//46z//+Os///jrP//46z//+Os///jrP//46z//+Os///jrP//46z//+Os///jrP//46z//+Os///j
+        rP//46z//+Os///jrP//46z//+Os///jrP//46z//+Os///jrP//46z//+Os///jrP//46z//+Os///j
+        rP//46z//+Os///jrP//46z//+Os///jrP//46z//+Os///jrP//46z//+Os///jrP//46z//+Os///j
+        rP//46z//+Os///jrP//46z//+Os///jrP//46z/z6ed/59sjf+fbI3/n2uNnwAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJ5r
+        jZGfbI3/n2yN/8CUmP//46z//+Os///jrP//46z//+Os///jrP//46z//+Os///jrP//46z//+Os///j
+        rP//46z//+Os///jrP//46z//+Os///jrP//46z//+Os///jrP//46z//+Os///jrP//46z//+Os///j
+        rP//46z//+Os///jrP//46z//+Os///jrP//46z//+Os///jrP//46z//+Os///jrP//46z//+Os///j
+        rP//46z//+Os///jrP//46z//+Os///jrP//46z//+Os///jrP//46z//+Os///jrP//46z//+Os///j
+        rP//46z//+Os///jrP//46z//+Os///jrP//46z//+Os///jrP//46z//+Os///jrP//46z//+Os///j
+        rP//46z//+Os/7+Vl/+fbI3/n2yN/59sjpAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACga45Wn2yN/59sjf+fbY3/wJSY/8yk
+        m//MpJv/zKSb/8ykm//MpJv/zKSb/8ykm//MpJv/zKSb/8ykm//MpJv/zKSb/8ykm//MpJv/zKSb/8yk
+        m//MpJv/zKSb/8ykm//MpJv/zKSb/8ykm//MpJv/zKSb/8ykm//MpJv/zKSb/8ykm//MpJv/zKSb/8yk
+        m//MpJv/zKSb/8ykm//MpJv/zKSb/8ykm//MpJv/zKSb/8ykm//MpJv/zKSb/8ykm//MpJv/zKSb/8yk
+        m//MpJv/zKSb/8ykm//MpJv/zKSb/8ykm//MpJv/zKSb/8ykm//MpJv/zKSb/8ykm//MpJv/zKSb/8yk
+        m//MpJv/zKSb/8ykm//MpJv/zKSb/8ykm//MpJv/zKSb/8ykm//MpJv/zKSb/7+Vl/+fbY3/n2yN/59s
+        jf+ebYxUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAgICABKBtjNWfbI3/n2yN/59sjf+fbI3/n2yN/59sjf+fbI3/n2yN/59s
+        jf+fbI3/n2yN/59sjf+fbI3/n2yN/59sjf+fbI3/n2yN/59sjf+fbI3/n2yN/59sjf+fbI3/n2yN/59s
+        jf+fbI3/n2yN/59sjf+fbI3/n2yN/59sjf+fbI3/n2yN/59sjf+fbI3/n2yN/59sjf+fbI3/n2yN/59s
+        jf+fbI3/n2yN/59sjf+fbI3/n2yN/59sjf+fbI3/n2yN/59sjf+fbI3/n2yN/59sjf+fbI3/n2yN/59s
+        jf+fbI3/n2yN/59sjf+fbI3/n2yN/59sjf+fbI3/n2yN/59sjf+fbI3/n2yN/59sjf+fbI3/n2yN/59s
+        jf+fbI3/n2yN/59sjf+fbI3/n2yN/59sjf+fbI3/n2yN/59sjf+hbYzTgICABAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAClc5QfoG2M1Z9sjf+fbI3/n2yN/59sjf+fbI3/n2yN/59sjf+fbI3/n2yN/59sjf+fbI3/n2yN/59s
+        jf+fbI3/n2yN/59sjf+fbI3/n2yN/59sjf+fbI3/n2yN/59sjf+fbI3/n2yN/59sjf+fbI3/n2yN/59s
+        jf+fbI3/n2yN/59sjf+fbI3/n2yN/59sjf+fbI3/n2yN/59sjf+fbI3/n2yN/59sjf+fbI3/n2yN/59s
+        jf+fbI3/n2yN/59sjf+fbI3/n2yN/59sjf+fbI3/n2yN/59sjf+fbI3/n2yN/59sjf+fbI3/n2yN/59s
+        jf+fbI3/n2yN/59sjf+fbI3/n2yN/59sjf+fbI3/n2yN/59sjf+fbI3/n2yN/59sjf+fbI3/n2yN/59s
+        jf+fbI3/n2yN/59sjf+hbYzTpXOUHwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAICAgASga45WnmuNkZ5s
+        jpmebI6ZnmyOmZ5sjpmebI6ZnmyOmZ5sjpmebI6ZnmyOmZ5sjpmebI6ZnmyOmZ5sjpmebI6ZnmyOmZ5s
+        jpmebI6ZnmyOmZ5sjpmebI6ZnmyOmZ5sjpmebI6ZnmyOmZ5sjpmebI6ZnmyOmZ5sjpmebI6ZnmyOmZ5s
+        jpmebI6ZnmyOmZ5sjpmebI6ZnmyOmZ5sjpmebI6ZnmyOmZ5sjpmebI6ZnmyOmZ5sjpmebI6ZnmyOmZ5s
+        jpmebI6ZnmyOmZ5sjpmebI6ZnmyOmZ5sjpmebI6ZnmyOmZ5sjpmebI6ZnmyOmZ5sjpmebI6ZnmyOmZ5s
+        jpmebI6ZnmyOmZ5sjpmebI6ZnmyOmZ5sjpmebI6ZnmyOmZ5sjpmebI6ZnmyOmZ5rjZGfbI1VgICABAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA////////////gAP/8AAAAP//
+        /////////gAAf/AAAAD///////////gAAB/wAAAA///////////gAAAP8AAAAP//////////wAAAB/AA
+        AAD//////////4AAAAPwAAAA//////////8AAAAB8AAAAP/////////+AAAAAPAAAAD//////////AAA
+        AABwAAAA//////////wAAAAAMAAAAP/////////4AAAAADAAAAD/////////+AAAAAAQAAAA//AAAAAA
+        AAAAAAAAEAAAAP/AAAAAAAAAAAAAABAAAAD/gAAAAAAAAAAAAAAAAAAA/4AAAAAAAAAAAAAAAAAAAP+A
+        AAAAAAAAAAAAAAAAAAD/gAAAAAAAAAAAAAAAAAAA/4AAAAAAAAAAAAAAAAAAAP+AAAAAAAAAAAAAAAAA
+        AAD/gAAAAAAAAAAAAAAAAAAA/4AAAAAAAAAAAAAAAAAAAP+AAAAAAAAAAAAAAAAAAAD/gAAAAAAAAAAA
+        AAAAAAAA/4AAAAAAAAAAAAAAAAAAAP+AAAAAAAAAAAAAAAAAAAD/gAAAAAAAAAAAAAAAAAAA/4AAAAAA
+        AAAAAAAAEAAAAP+AAAAAAAAAAAAAABAAAAD/gAAAAAAAAAAAAAAwAAAA/4AAAAAAAAAAAAAAMAAAAP+A
+        AAAAAAAAAAAAAHAAAAD/gAAAAAAAAAAAAABwAAAA/4AAAAAAAAAAAAAA8AAAAP+AAAAAAAAAAAAAAfAA
+        AAD/gAAAAAAAAAAAAAPwAAAA/4AAAAAAAAAAAAAH8AAAAP+AAAAAAAAAAAAAD/AAAAD/gAAAAAAAAAAA
+        AB/wAAAA/4AAAAAAAAAAAAAf8AAAAP+AAAAAAAAAAAAAH/AAAAD/gAAAAAAAAAAAAB/wAAAA/4AAAAAA
+        AAAAAAAf8AAAAP+AAAAAAAAAAAAAH/AAAAD/gAAAAAAAAAAAAB/wAAAA/4AAAAAAAAAAAAAf8AAAAP+A
+        AAAAAAAAAAAAH/AAAAD/gAAAAAAAAAAAAB/wAAAA/4AAAAAAAAAAAAAf8AAAAP+AAAAAAAAAAAAAH/AA
+        AAD/gAAAAAAAAAAAAB/wAAAA/4AAAAAAAAAAAAAf8AAAAP+AAAAAAAAAAAAAH/AAAAD/gAAAAAAAAAAA
+        AB/wAAAA/4AAAAAAAAAAAAAf8AAAAP+AAAAAAAAAAAAAH/AAAAD/gAAAAAAAAAAAAB/wAAAA/4AAAAAA
+        AAAAAAAf8AAAAP+AAAAAAAAAAAAAH/AAAAD/gAAAAAAAAAAAAB/wAAAA/4AAAAAAAAAAAAAf8AAAAP+A
+        AAAAAAAAAAAAH/AAAAD/gAAAAAAAAAAAAB/wAAAA/4AAAAAAAAAAAAAf8AAAAP+AAAAAAAAAAAAAH/AA
+        AAD/gAAAAAAAAAAAAB/wAAAA/4AAAAAAAAAAAAAf8AAAAP+AAAAAAAAAAAAAH/AAAAD/gAAAAAAAAAAA
+        AB/wAAAA/4AAAAAAAAAAAAAf8AAAAP+AAAAAAAAAAAAAH/AAAAD/gAAAAAAAAAAAAB/wAAAA/4AAAAAA
+        AAAAAAAf8AAAAP+AAAAAAAAAAAAAH/AAAAD/gAAAAAAAAAAAAB/wAAAA/4AAAAAAAAAAAAAf8AAAAP+A
+        AAAAAAAAAAAAH/AAAAD/gAAAAAAAAAAAAB/wAAAA/4AAAAAAAAAAAAAf8AAAAP+AAAAAAAAAAAAAH/AA
+        AAD/gAAAAAAAAAAAAB/wAAAA/4AAAAAAAAAAAAAf8AAAAP+AAAAAAAAAAAAAH/AAAAD/gAAAAAAAAAAA
+        AB/wAAAA/4AAAAAAAAAAAAAf8AAAAP+AAAAAAAAAAAAAH/AAAAD/gAAAAAAAAAAAAB/wAAAA/4AAAAAA
+        AAAAAAAf8AAAAP+AAAAAAAAAAAAAH/AAAAD/wAAAAAAAAAAAAD/wAAAA/+AAAAAAAAAAAAB/8AAAAP//
+        //////////////AAAAD////////////////wAAAA////////////////8AAAAP////////////////AA
+        AAD////////////////wAAAA////////////////8AAAAP////////////////AAAAD/////////////
+        ///wAAAA////////////////8AAAAA==
+</value>
+  </data>
+  <data name="$this.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>ComandasConsumo</value>
+  </data>
+  <data name="&gt;&gt;imageListAddConsumo.Name" xml:space="preserve">
+    <value>imageListAddConsumo</value>
+  </data>
+  <data name="&gt;&gt;imageListAddConsumo.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ImageList, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>ComandasConsumo</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+</root>

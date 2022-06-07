@@ -1,0 +1,400 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{658CFE63-111D-4A29-876D-13074ABE5594}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>PastelariaDoZe</RootNamespace>
+    <AssemblyName>PastelariaDoZe</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DocumentationFile>bin\Debug\PastelariaDoZe.xml</DocumentationFile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Icone_pastel.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Telas\CadastroClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas\CadastroClientes.Designer.cs">
+      <DependentUpon>CadastroClientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\CadastroProdutos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas\CadastroProdutos.Designer.cs">
+      <DependentUpon>CadastroProdutos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\Comandas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas\Comandas.Designer.cs">
+      <DependentUpon>Comandas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\ComandasConsumo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas\ComandasConsumo.Designer.cs">
+      <DependentUpon>ComandasConsumo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\FecharComanda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas\FecharComanda.Designer.cs">
+      <DependentUpon>FecharComanda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\FormLogout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas\FormLogout.Designer.cs">
+      <DependentUpon>FormLogout.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\FormMensagem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas\FormMensagem.Designer.cs">
+      <DependentUpon>FormMensagem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\FormMensagemTray.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas\FormMensagemTray.Designer.cs">
+      <DependentUpon>FormMensagemTray.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\FormQuantidade.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas\FormQuantidade.Designer.cs">
+      <DependentUpon>FormQuantidade.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\FormSenhaCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas\FormSenhaCliente.Designer.cs">
+      <DependentUpon>FormSenhaCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\TelaLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas\TelaLogin.Designer.cs">
+      <DependentUpon>TelaLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\Funcionarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas\Funcionarios.Designer.cs">
+      <DependentUpon>Funcionarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\MenuPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas\MenuPrincipal.Designer.cs">
+      <DependentUpon>MenuPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Telas\RecebeFiado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas\RecebeFiado.Designer.cs">
+      <DependentUpon>RecebeFiado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\TelaConfiguracoes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Telas\TelaConfiguracoes.Designer.cs">
+      <DependentUpon>TelaConfiguracoes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Telas\UserControlBusca.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Telas\UserControlBusca.Designer.cs">
+      <DependentUpon>UserControlBusca.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Telas\CadastroClientes.en.resx">
+      <DependentUpon>CadastroClientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\CadastroClientes.es.resx">
+      <DependentUpon>CadastroClientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\CadastroClientes.resx">
+      <DependentUpon>CadastroClientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\CadastroProdutos.en.resx">
+      <DependentUpon>CadastroProdutos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\CadastroProdutos.es.resx">
+      <DependentUpon>CadastroProdutos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\CadastroProdutos.resx">
+      <DependentUpon>CadastroProdutos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\Comandas.en.resx">
+      <DependentUpon>Comandas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\Comandas.es.resx">
+      <DependentUpon>Comandas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\Comandas.resx">
+      <DependentUpon>Comandas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\ComandasConsumo.aa.resx">
+      <DependentUpon>ComandasConsumo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\ComandasConsumo.en.resx">
+      <DependentUpon>ComandasConsumo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\ComandasConsumo.es.resx">
+      <DependentUpon>ComandasConsumo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\ComandasConsumo.resx">
+      <DependentUpon>ComandasConsumo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\FecharComanda.en.resx">
+      <DependentUpon>FecharComanda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\FecharComanda.es.resx">
+      <DependentUpon>FecharComanda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\FecharComanda.resx">
+      <DependentUpon>FecharComanda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\FormLogout.aa.resx">
+      <DependentUpon>FormLogout.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\FormLogout.resx">
+      <DependentUpon>FormLogout.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\FormMensagem.resx">
+      <DependentUpon>FormMensagem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\FormMensagemTray.resx">
+      <DependentUpon>FormMensagemTray.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\FormQuantidade.en.resx">
+      <DependentUpon>FormQuantidade.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\FormQuantidade.es.resx">
+      <DependentUpon>FormQuantidade.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\FormQuantidade.resx">
+      <DependentUpon>FormQuantidade.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\FormSenhaCliente.en.resx">
+      <DependentUpon>FormSenhaCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\FormSenhaCliente.es.resx">
+      <DependentUpon>FormSenhaCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\FormSenhaCliente.resx">
+      <DependentUpon>FormSenhaCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\Funcionarios.en.resx">
+      <DependentUpon>Funcionarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\Funcionarios.es.resx">
+      <DependentUpon>Funcionarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\MenuPrincipal.en.resx">
+      <DependentUpon>MenuPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\MenuPrincipal.es.resx">
+      <DependentUpon>MenuPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\RecebeFiado.en.resx">
+      <DependentUpon>RecebeFiado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\RecebeFiado.es.resx">
+      <DependentUpon>RecebeFiado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\TelaConfiguracoes.en.resx">
+      <DependentUpon>TelaConfiguracoes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\TelaConfiguracoes.es.resx">
+      <DependentUpon>TelaConfiguracoes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\TelaLogin.en.resx">
+      <DependentUpon>TelaLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\TelaLogin.es.resx">
+      <DependentUpon>TelaLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\TelaLogin.resx">
+      <DependentUpon>TelaLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\Funcionarios.resx">
+      <DependentUpon>Funcionarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\MenuPrincipal.resx">
+      <DependentUpon>MenuPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Telas\RecebeFiado.resx">
+      <DependentUpon>RecebeFiado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\TelaConfiguracoes.resx">
+      <DependentUpon>TelaConfiguracoes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\UserControlBusca.en.resx">
+      <DependentUpon>UserControlBusca.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\UserControlBusca.es.resx">
+      <DependentUpon>UserControlBusca.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Telas\UserControlBusca.resx">
+      <DependentUpon>UserControlBusca.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Imagem_Pastelaria.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\PastelariaDoZe.Biblioteca\PastelariaDoZe.Biblioteca.csproj">
+      <Project>{c82e3147-38f0-44f0-a2cd-4420be395b5e}</Project>
+      <Name>PastelariaDoZe.Biblioteca</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PastelariaDoZe.DAO\PastelariaDoZe.DAO.csproj">
+      <Project>{657bd956-a497-42a0-a937-438dabf3a0d5}</Project>
+      <Name>PastelariaDoZe.DAO</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagens\Imagem_Pastelaria.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Icone_pastel.ico" />
+    <Content Include="Imagens\AddComanda %281%29.png" />
+    <Content Include="Imagens\AddComanda-_1_.ico" />
+    <Content Include="Imagens\addConsumo %282%29.png" />
+    <Content Include="Imagens\addConsumo.png" />
+    <Content Include="Imagens\addImagem.png" />
+    <Content Include="Imagens\cadastrarFiado.png" />
+    <Content Include="Imagens\cliente.ico" />
+    <Content Include="Imagens\cliente.png" />
+    <Content Include="Imagens\comanda.ico" />
+    <Content Include="Imagens\comanda.png" />
+    <Content Include="Imagens\configuracoes.ico" />
+    <Content Include="Imagens\configuracoes.png" />
+    <Content Include="Imagens\dashboard.png" />
+    <Content Include="Imagens\dinheiro.png" />
+    <Content Include="Imagens\editar.png" />
+    <Content Include="Imagens\empregado.ico" />
+    <Content Include="Imagens\empregado.png" />
+    <Content Include="Imagens\ExcluirBarra.png" />
+    <Content Include="Imagens\excluirconsumo.png" />
+    <Content Include="Imagens\fecharComanda.png" />
+    <Content Include="Imagens\FinalizaFiado.png" />
+    <Content Include="Imagens\Flag_of_Brazil.png" />
+    <Content Include="Imagens\Flag_of_Spain.png" />
+    <Content Include="Imagens\Flag_of_the_United_States.png" />
+    <Content Include="Imagens\globo.png" />
+    <Content Include="Imagens\Icone_pastel.ico" />
+    <Content Include="Imagens\Icone_pastel.jpg" />
+    <Content Include="Imagens\icons8-carteira-64.ico" />
+    <Content Include="Imagens\icons8-carteira-64.png" />
+    <Content Include="Imagens\icons8-question-mark-96.png" />
+    <Content Include="Imagens\Imagem-Pastelaria.ico" />
+    <Content Include="Imagens\login.png" />
+    <Content Include="Imagens\logout.png" />
+    <Content Include="Imagens\PagFiado.png" />
+    <Content Include="Imagens\PagVista.png" />
+    <Content Include="Imagens\pastel_mascote.png" />
+    <Content Include="Imagens\pesquisar.png" />
+    <Content Include="Imagens\produto.ico" />
+    <Content Include="Imagens\produto.png" />
+    <Content Include="Imagens\receberfiado.ico" />
+    <Content Include="Imagens\receberFiado.png" />
+    <Content Include="Imagens\sair.png" />
+    <Content Include="Imagens\salvar.png" />
+    <None Include="Resources\ExcluirBarra.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 e x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

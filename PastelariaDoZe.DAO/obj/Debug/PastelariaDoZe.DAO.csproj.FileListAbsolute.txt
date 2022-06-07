@@ -1,0 +1,12 @@
+C:\OneDrive\Sistemas de Informacao\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe.DAO\bin\Debug\PastelariaDoZe.DAO.dll
+C:\OneDrive\Sistemas de Informacao\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe.DAO\bin\Debug\PastelariaDoZe.DAO.pdb
+C:\OneDrive\Sistemas de Informacao\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe.DAO\obj\Debug\PastelariaDoZe.DAO.csprojAssemblyReference.cache
+C:\OneDrive\Sistemas de Informacao\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe.DAO\obj\Debug\PastelariaDoZe.DAO.csproj.CoreCompileInputs.cache
+C:\OneDrive\Sistemas de Informacao\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe.DAO\obj\Debug\PastelariaDoZe.DAO.dll
+C:\OneDrive\Sistemas de Informacao\3ª Fase\Desenvolvimento de Sistemas\Projeto Pastelaria\Programa\PastelariaDoZe\PastelariaDoZe.DAO\obj\Debug\PastelariaDoZe.DAO.pdb
+C:\PastelariaDoZe\PastelariaDoZe.DAO\bin\Debug\PastelariaDoZe.DAO.dll
+C:\PastelariaDoZe\PastelariaDoZe.DAO\bin\Debug\PastelariaDoZe.DAO.pdb
+C:\PastelariaDoZe\PastelariaDoZe.DAO\obj\Debug\PastelariaDoZe.DAO.csprojAssemblyReference.cache
+C:\PastelariaDoZe\PastelariaDoZe.DAO\obj\Debug\PastelariaDoZe.DAO.csproj.CoreCompileInputs.cache
+C:\PastelariaDoZe\PastelariaDoZe.DAO\obj\Debug\PastelariaDoZe.DAO.dll
+C:\PastelariaDoZe\PastelariaDoZe.DAO\obj\Debug\PastelariaDoZe.DAO.pdb
